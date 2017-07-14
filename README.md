@@ -1,5 +1,5 @@
 # Binary Reading List
-Things I know and will have to know about binaries.
+*Things I know and will have to know about binaries.*
 
 - [Reverse Engineering for Beginners](https://beginners.re/) by Dennis Yurichev
 
@@ -61,3 +61,27 @@ Things I know and will have to know about binaries.
 - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 
 - [NX Bit - Does it protect the stack?](https://security.stackexchange.com/questions/47807/nx-bit-does-it-protect-the-stack/47825)
+
+- [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.nl/p/malware-analysis-tutorials-reverse.html) by Dr. Xiang Fu
+
+- [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+
+- [Linux anti-debugging techniques](http://vxheaven.org/lib/vsc04.html)
+
+- [Beej's Quick Guide to GDB](http://beej.us/guide/bggdb/)
+
+- [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)
+
+- [Corelan Team Blog](https://www.corelan.be/index.php/articles/)
+
+- [Exploiting Format String Vulnerabilities](https://trailofbits.github.io/ctf/exploits/references/formatstring-1.2.pdf)
+
+- [Surgically returning to randomized lib(c)](https://trailofbits.github.io/ctf/exploits/references/acsac09.pdf)
+
+- [Using GDB to Develop Exploits](https://www.exploit-db.com/papers/13205/)
+
+- [x86-64 buffer overflow exploits and the borrowed code chunks exploitation technique](https://trailofbits.github.io/ctf/exploits/references/no-nx.pdf)
+
+- [The "Ultimate" Anti-Debugging Reference](http://pferrie.host22.com/papers/antidebug.pdf)
+
+- [Low-level Software Security: Attacks and Defenses](https://trailofbits.github.io/ctf/exploits/references/tr-2007-153.pdf)
