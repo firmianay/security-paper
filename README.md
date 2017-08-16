@@ -11,6 +11,8 @@
 
 - [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/) by RPISEC
 
+- [Syscalls used by malloc](https://sploitfun.wordpress.com/2015/02/11/syscalls-used-by-malloc/) by sploitfun
+
 ## TODO
 
 - [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
@@ -85,3 +87,16 @@
 - [The "Ultimate" Anti-Debugging Reference](http://pferrie.host22.com/papers/antidebug.pdf)
 
 - [Low-level Software Security: Attacks and Defenses](https://trailofbits.github.io/ctf/exploits/references/tr-2007-153.pdf)
+
+- [CTF 中的内存漏洞利用技巧](http://netsec.ccert.edu.cn/wp-content/uploads/2015/10/2015-1029-yangkun-Gold-Mining-CTF.pdf)
+
+- [Heap overflow using Malloc Maleficarum](https://sploitfun.wordpress.com/2015/03/04/heap-overflow-using-malloc-maleficarum/) by sploitfun
+
+- [Heap overflow using unlink](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/) by sploitfun
+
+- [MALLOC DES-MALEFICARUM](http://www.phrack.org/issues/66/10.html) by blackngel
+
+- [Heap exploitation](https://4ngelboy.blogspot.tw/2015/08/heap-exploitation.html) by Angelboy
+
+- [Advanced heap exploitation](https://4ngelboy.blogspot.tw/2016/03/advanced-heap-exploitation.html) by Angelboy
+
