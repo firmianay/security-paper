@@ -1,17 +1,27 @@
 # Binary Reading List
 *Things I know and will have to know about binaries.*
 
-- [Reverse Engineering for Beginners](https://beginners.re/) by Dennis Yurichev
+### Books
+- [Reverse Engineering for Beginners](https://beginners.re/) -- by Dennis Yurichev
 
-- [一步一步学ROP](https://github.com/zhengmin1989/ROP_STEP_BY_STEP) by 蒸米
+### Courses
+- [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/) -- by RPISEC
+
+### ROP
+- [一步一步学ROP](https://github.com/zhengmin1989/ROP_STEP_BY_STEP) -- by 蒸米
   - [一步一步学ROP之linux_x86篇](http://www.vuln.cn/6645)
   - [一步一步学ROP之linux_x64篇](http://www.vuln.cn/6644)
   - [一步一步学ROP之gadgets和2free篇](http://www.vuln.cn/6643)
   - [一步一步学ROP之Android ARM 32位篇](http://www.vuln.cn/6642)
 
-- [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/) by RPISEC
+### Heap
+- [Syscalls used by malloc](https://sploitfun.wordpress.com/2015/02/11/syscalls-used-by-malloc/) -- by sploitfun
 
-- [Syscalls used by malloc](https://sploitfun.wordpress.com/2015/02/11/syscalls-used-by-malloc/) by sploitfun
+### Tools
+- [PEDA - Python Exploit Development Assistance for GDB](https://github.com/longld/peda)
+- [pwntools - CTF framework and exploit development library](https://github.com/Gallopsled/pwntools)
+- [angr - The next-generation binary analysis platform](https://github.com/angr/angr)
+
 
 ## TODO
 
@@ -64,7 +74,7 @@
 
 - [NX Bit - Does it protect the stack?](https://security.stackexchange.com/questions/47807/nx-bit-does-it-protect-the-stack/47825)
 
-- [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.nl/p/malware-analysis-tutorials-reverse.html) by Dr. Xiang Fu
+- [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.nl/p/malware-analysis-tutorials-reverse.html) -- by Dr. Xiang Fu
 
 - [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
@@ -90,13 +100,34 @@
 
 - [CTF 中的内存漏洞利用技巧](http://netsec.ccert.edu.cn/wp-content/uploads/2015/10/2015-1029-yangkun-Gold-Mining-CTF.pdf)
 
-- [Heap overflow using Malloc Maleficarum](https://sploitfun.wordpress.com/2015/03/04/heap-overflow-using-malloc-maleficarum/) by sploitfun
+- [Heap overflow using Malloc Maleficarum](https://sploitfun.wordpress.com/2015/03/04/heap-overflow-using-malloc-maleficarum/) -- by sploitfun
 
-- [Heap overflow using unlink](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/) by sploitfun
+- [Heap overflow using unlink](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/) -- by sploitfun
 
-- [MALLOC DES-MALEFICARUM](http://www.phrack.org/issues/66/10.html) by blackngel
+- [MALLOC DES-MALEFICARUM](http://www.phrack.org/issues/66/10.html) -- by blackngel
 
-- [Heap exploitation](https://4ngelboy.blogspot.tw/2015/08/heap-exploitation.html) by Angelboy
+- [Heap exploitation](https://4ngelboy.blogspot.tw/2015/08/heap-exploitation.html) -- by Angelboy
 
-- [Advanced heap exploitation](https://4ngelboy.blogspot.tw/2016/03/advanced-heap-exploitation.html) by Angelboy
+- [Advanced heap exploitation](https://4ngelboy.blogspot.tw/2016/03/advanced-heap-exploitation.html) -- by Angelboy
 
+- [FuzzySecurity](https://www.fuzzysecurity.com/tutorials.html)
+
+- Hack The Virtual Memory -- by Julien Barbier
+  - [Hack The Virtual Memory: C strings & /proc](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
+  - [Hack The Virtual Memory: Python bytes](https://blog.holbertonschool.com/hack-the-virtual-memory-python-bytes/)
+  - [Hack the Virtual Memory: drawing the VM diagram](https://blog.holbertonschool.com/hack-the-virtual-memory-drawing-the-vm-diagram/)
+  - [Hack the Virtual Memory: malloc, the heap & the program break](https://blog.holbertonschool.com/hack-the-virtual-memory-malloc-the-heap-the-program-break/)
+
+- Exploit writing tutorial -- By Corelan Team
+  - [Stack Based Overflows](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
+  - [Stack Based Overflows – jumping to shellcode](https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/)
+  - [SEH Based Exploits](https://www.corelan.be/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/)
+  - [SEH Based Exploits – just another example](https://www.corelan.be/index.php/2009/07/28/seh-based-exploit-writing-tutorial-continued-just-another-example-part-3b/)
+  - [From Exploit to Metasploit – The basics](https://www.corelan.be/index.php/2009/08/12/exploit-writing-tutorials-part-4-from-exploit-to-metasploit-the-basics/)
+  - [How debugger modules & plugins can speed up basic exploit development](https://www.corelan.be/index.php/2009/09/05/exploit-writing-tutorial-part-5-how-debugger-modules-plugins-can-speed-up-basic-exploit-development/)
+  - [Bypassing Stack Cookies, SafeSeh, SEHOP, HW DEP and ASLR](https://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypassing-stack-cookies-safeseh-hw-dep-and-aslr/)
+  - [Unicode – from 0x00410041 to calc](https://www.corelan.be/index.php/2009/11/06/exploit-writing-tutorial-part-7-unicode-from-0x00410041-to-calc/)
+  - [Win32 Egg Hunting](https://www.corelan.be/index.php/2010/01/09/exploit-writing-tutorial-part-8-win32-egg-hunting/)
+  - [Introduction to Win32 shellcoding](https://www.corelan.be/index.php/2010/02/25/exploit-writing-tutorial-part-9-introduction-to-win32-shellcoding/)
+  - [Chaining DEP with ROP](https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube/)
+  - [Heap Spraying Demystified](https://www.corelan.be/index.php/2011/12/31/exploit-writing-tutorial-part-11-heap-spraying-demystified/)
