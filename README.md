@@ -21,6 +21,11 @@
 - [PEDA - Python Exploit Development Assistance for GDB](https://github.com/longld/peda)
 - [pwntools - CTF framework and exploit development library](https://github.com/Gallopsled/pwntools)
 - [angr - The next-generation binary analysis platform](https://github.com/angr/angr)
+- [zio - unified io lib for pwning development written in python](https://github.com/zTrix/zio)
+
+### Format String
+- [Exploiting Format String Vulnerabilities](https://trailofbits.github.io/ctf/exploits/references/formatstring-1.2.pdf)
+- [Introduction to Format String exploits](http://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html)
 
 
 ## TODO
@@ -51,8 +56,6 @@
 - [Writing you own shellcode](http://paraschetal.in/writing-your-own-shellcode)
 
 - [SoK: Science, Security, and the Elusive Goal of Security as a Scientific Pursuit](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/scienceAndSecuritySoK.pdf)
-
-- [Introduction to Format String exploits](http://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html)
 
 - [Stack based v/s Register based architectures and android's Dalvik VM](https://markfaction.wordpress.com/2012/07/15/stack-based-vs-register-based-virtual-machine-architecture-and-the-dalvik-vm/)
 
@@ -86,8 +89,6 @@
 
 - [Corelan Team Blog](https://www.corelan.be/index.php/articles/)
 
-- [Exploiting Format String Vulnerabilities](https://trailofbits.github.io/ctf/exploits/references/formatstring-1.2.pdf)
-
 - [Surgically returning to randomized lib(c)](https://trailofbits.github.io/ctf/exploits/references/acsac09.pdf)
 
 - [Using GDB to Develop Exploits](https://www.exploit-db.com/papers/13205/)
@@ -120,7 +121,7 @@
 
 - Exploit writing tutorial -- By Corelan Team
   - [Stack Based Overflows](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
-  - [Stack Based Overflows – jumping to shellcode](https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-2/)
+  - [Stack Based Overflows – jumping to shellcode](https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-stutorial-part-2/)
   - [SEH Based Exploits](https://www.corelan.be/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/)
   - [SEH Based Exploits – just another example](https://www.corelan.be/index.php/2009/07/28/seh-based-exploit-writing-tutorial-continued-just-another-example-part-3b/)
   - [From Exploit to Metasploit – The basics](https://www.corelan.be/index.php/2009/08/12/exploit-writing-tutorials-part-4-from-exploit-to-metasploit-the-basics/)
@@ -131,3 +132,16 @@
   - [Introduction to Win32 shellcoding](https://www.corelan.be/index.php/2010/02/25/exploit-writing-tutorial-part-9-introduction-to-win32-shellcoding/)
   - [Chaining DEP with ROP](https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube/)
   - [Heap Spraying Demystified](https://www.corelan.be/index.php/2011/12/31/exploit-writing-tutorial-part-11-heap-spraying-demystified/)
+
+- [Advances in format string exploitation](http://phrack.org/issues/59/7.html) -- by gera, riq
+
+- [Finding Function's Load Address](http://uaf.io/exploitation/misc/2016/04/02/Finding-Functions.html)
+
+- [PWN之堆内存管理](https://paper.seebug.org/255/) -- by jmpews
+
+- 格式化字符串漏洞利用小结 -- by tianyi201612
+  - [格式化字符串漏洞利用小结（一）](http://bobao.360.cn/learning/detail/3654.html)
+  - [格式化字符串漏洞利用小结（二）](http://bobao.360.cn/learning/detail/3674.html)
+  - [借助DynELF实现无libc的漏洞利用小结](http://bobao.360.cn/learning/detail/3298.html)
+
+- [格式化字符串blind pwn详细教程](http://bobao.360.cn/ctf/detail/189.html) -- by 4SUN4_C8
