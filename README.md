@@ -24,8 +24,8 @@
 - [zio - unified io lib for pwning development written in python](https://github.com/zTrix/zio)
 
 ### Format String
-- [Exploiting Format String Vulnerabilities](https://trailofbits.github.io/ctf/exploits/references/formatstring-1.2.pdf)
-- [Introduction to Format String exploits](http://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html)
+- [Exploiting Format String Vulnerabilities](https://trailofbits.github.io/ctf/exploits/references/formatstring-1.2.pdf) -- by scut/team teso
+- [Introduction to Format String exploits](http://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html) -- by Alex Reece
 
 
 ## TODO
@@ -145,3 +145,11 @@
   - [借助DynELF实现无libc的漏洞利用小结](http://bobao.360.cn/learning/detail/3298.html)
 
 - [格式化字符串blind pwn详细教程](http://bobao.360.cn/ctf/detail/189.html) -- by 4SUN4_C8
+
+- [软件分析技术](http://sei.pku.edu.cn/~xiongyf04/SA/2016/main.htm) -- by 熊英飞
+
+- [Compiler Design](http://www.cs.cmu.edu/~fp/courses/15411-f14/index.html) -- by Frank Pfenning
+
+- [Optimizing Compilers](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15745-s14/www/index.html) -- by Todd C. Mowry
+
+- [System Security and Binary Code Analysis](http://www.utdallas.edu/~zhiqiang.lin/spring2012.html)
