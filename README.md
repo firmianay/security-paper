@@ -26,6 +26,15 @@
 ### Format String
 - [Exploiting Format String Vulnerabilities](https://trailofbits.github.io/ctf/exploits/references/formatstring-1.2.pdf) -- by scut/team teso
 - [Introduction to Format String exploits](http://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html) -- by Alex Reece
+- 格式化字符串漏洞利用小结 -- by tianyi201612
+  - [格式化字符串漏洞利用小结（一）](http://bobao.360.cn/learning/detail/3654.html)
+  - [格式化字符串漏洞利用小结（二）](http://bobao.360.cn/learning/detail/3674.html)
+  - [借助DynELF实现无libc的漏洞利用小结](http://bobao.360.cn/learning/detail/3298.html)
+- [格式化字符串blind pwn详细教程](http://bobao.360.cn/ctf/detail/189.html) -- by 4SUN4_C8
+- [漏洞挖掘基础之格式化字符串](http://cb.drops.wiki/drops/papers-9426.html) -- by 珈蓝夜宇
+- [Linux系统下格式化字符串利用研究](https://paper.seebug.org/246/) -- by Hcamael
+
+- [Linux中的GOT和PLT到底是个啥？](http://www.freebuf.com/articles/system/135685.html) -- by PhyzX
 
 
 ## TODO
@@ -139,13 +148,6 @@
 
 - [PWN之堆内存管理](https://paper.seebug.org/255/) -- by jmpews
 
-- 格式化字符串漏洞利用小结 -- by tianyi201612
-  - [格式化字符串漏洞利用小结（一）](http://bobao.360.cn/learning/detail/3654.html)
-  - [格式化字符串漏洞利用小结（二）](http://bobao.360.cn/learning/detail/3674.html)
-  - [借助DynELF实现无libc的漏洞利用小结](http://bobao.360.cn/learning/detail/3298.html)
-
-- [格式化字符串blind pwn详细教程](http://bobao.360.cn/ctf/detail/189.html) -- by 4SUN4_C8
-
 - [软件分析技术](http://sei.pku.edu.cn/~xiongyf04/SA/2016/main.htm) -- by 熊英飞
 
 - [Compiler Design](http://www.cs.cmu.edu/~fp/courses/15411-f14/index.html) -- by Frank Pfenning
@@ -153,3 +155,5 @@
 - [Optimizing Compilers](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15745-s14/www/index.html) -- by Todd C. Mowry
 
 - [System Security and Binary Code Analysis](http://www.utdallas.edu/~zhiqiang.lin/spring2012.html)
+
+- [Main is usually a function. So then when is it not?](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html) -- by James Rowe
