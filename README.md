@@ -6,6 +6,7 @@
 
 ### Courses
 - [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/) -- by RPISEC
+- [FuzzySecurity](https://www.fuzzysecurity.com/tutorials.html)
 
 ### ROP
 - [一步一步学ROP](https://github.com/zhengmin1989/ROP_STEP_BY_STEP) -- by 蒸米
@@ -16,6 +17,10 @@
 
 ### Heap
 - [Syscalls used by malloc](https://sploitfun.wordpress.com/2015/02/11/syscalls-used-by-malloc/) -- by sploitfun
+- [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/comment-page-1/?blogsub=confirming#subscribe-blog%E3%80%82)
+  - [理解 glibc malloc](http://blog.csdn.net/maokelong95/article/details/51989081)
+- [Heap Exploitation ~ Abusing Use-After-Free](https://0x00sec.org/t/heap-exploitation-abusing-use-after-free/3580) -- by r3kt
+- [Double Free浅析](http://www.vuln.cn/6172) -- by explorer
 
 ### Tools
 - [PEDA - Python Exploit Development Assistance for GDB](https://github.com/longld/peda)
@@ -52,9 +57,6 @@
 - [从逆向工程的角度来看C++](http://bbs.pediy.com/thread-87586.htm)
 
 - [Glibc 内存管理: Ptmalloc2 源代码分析](http://www.valleytalk.org/wp-content/uploads/2015/02/glibc%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86ptmalloc%E6%BA%90%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%901.pdf)
-
-- [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/comment-page-1/?blogsub=confirming#subscribe-blog%E3%80%82)
-  - [理解 glibc malloc](http://blog.csdn.net/maokelong95/article/details/51989081)
 
 - [Performing a ret2libc Attack](http://shellblade.net/docs/ret2libc.pdf)
 
@@ -110,17 +112,11 @@
 
 - [CTF 中的内存漏洞利用技巧](http://netsec.ccert.edu.cn/wp-content/uploads/2015/10/2015-1029-yangkun-Gold-Mining-CTF.pdf)
 
-- [Heap overflow using Malloc Maleficarum](https://sploitfun.wordpress.com/2015/03/04/heap-overflow-using-malloc-maleficarum/) -- by sploitfun
-
-- [Heap overflow using unlink](https://sploitfun.wordpress.com/2015/02/26/heap-overflow-using-unlink/) -- by sploitfun
-
 - [MALLOC DES-MALEFICARUM](http://www.phrack.org/issues/66/10.html) -- by blackngel
 
 - [Heap exploitation](https://4ngelboy.blogspot.tw/2015/08/heap-exploitation.html) -- by Angelboy
 
 - [Advanced heap exploitation](https://4ngelboy.blogspot.tw/2016/03/advanced-heap-exploitation.html) -- by Angelboy
-
-- [FuzzySecurity](https://www.fuzzysecurity.com/tutorials.html)
 
 - Hack The Virtual Memory -- by Julien Barbier
   - [Hack The Virtual Memory: C strings & /proc](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
@@ -157,3 +153,21 @@
 - [System Security and Binary Code Analysis](http://www.utdallas.edu/~zhiqiang.lin/spring2012.html)
 
 - [Main is usually a function. So then when is it not?](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html) -- by James Rowe
+
+- [Heap Exploitation](https://heap-exploitation.dhavalkapil.com/) -- by Dhaval Kapil
+
+- Linux堆内存管理深入分析 -- by 阿里聚安全
+  - [Linux堆内存管理深入分析（上）](http://www.freebuf.com/articles/system/104144.html)
+  - [Linux堆内存管理深入分析（下）](http://www.freebuf.com/articles/security-management/105285.html)
+
+- Windows Exploit开发系列教程 -- by Netfairy, lufei
+  - [Windows Exploit开发系列教程——堆喷射（一）](http://bobao.360.cn/learning/detail/3548.html)
+  - [Windows Exploit开发系列教程——堆喷射（二）](http://bobao.360.cn/learning/detail/3555.html)
+
+- [Notes About Heap Overflow Under Linux](https://blog.iret.xyz/article.aspx/linux_heapoverflow_enterance) -- by Silver
+
+- [如何理解堆和堆溢出漏洞的利用？](http://www.freebuf.com/vuls/98404.html) -- by 老王隔壁的白帽子
+
+- [how2heap](https://github.com/shellphish/how2heap) -- by shellphish
+  - [how2heap总结-上](http://bobao.360.cn/learning/detail/4386.html)
+  - [how2heap总结-下](http://bobao.360.cn/learning/detail/4383.html) by 7o8v_
