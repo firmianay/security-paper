@@ -18,9 +18,10 @@
 ### Heap
 - [Syscalls used by malloc](https://sploitfun.wordpress.com/2015/02/11/syscalls-used-by-malloc/) -- by sploitfun
 - [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/comment-page-1/?blogsub=confirming#subscribe-blog%E3%80%82)
-  - [理解 glibc malloc](http://blog.csdn.net/maokelong95/article/details/51989081)
+  - [Linux下的堆管理](http://tyrande000.how/2016/02/20/linux%E4%B8%8B%E7%9A%84%E5%A0%86%E7%AE%A1%E7%90%86/)
 - [Heap Exploitation ~ Abusing Use-After-Free](https://0x00sec.org/t/heap-exploitation-abusing-use-after-free/3580) -- by r3kt
 - [Double Free浅析](http://www.vuln.cn/6172) -- by explorer
+- [PWN之堆内存管理](https://paper.seebug.org/255/) -- by jmpews
 
 ### Tools
 - [PEDA - Python Exploit Development Assistance for GDB](https://github.com/longld/peda)
@@ -142,8 +143,6 @@
 
 - [Finding Function's Load Address](http://uaf.io/exploitation/misc/2016/04/02/Finding-Functions.html)
 
-- [PWN之堆内存管理](https://paper.seebug.org/255/) -- by jmpews
-
 - [软件分析技术](http://sei.pku.edu.cn/~xiongyf04/SA/2016/main.htm) -- by 熊英飞
 
 - [Compiler Design](http://www.cs.cmu.edu/~fp/courses/15411-f14/index.html) -- by Frank Pfenning
@@ -171,3 +170,22 @@
 - [how2heap](https://github.com/shellphish/how2heap) -- by shellphish
   - [how2heap总结-上](http://bobao.360.cn/learning/detail/4386.html)
   - [how2heap总结-下](http://bobao.360.cn/learning/detail/4383.html) by 7o8v_
+
+- [Ltrace Internals](https://paper.seebug.org/papers/Archive/refs/ltrace_internals.pdf) -- by Rodrigo Rubira Branco
+
+- [Principles of Program Analysis](http://www.imm.dtu.dk/~hrni/PPA/ppasup2004.html) -- by Nielson
+
+- [Static Program Analysis](https://cs.au.dk/~amoeller/spa/) -- by Anders
+
+- [Intro to ROP: ROP Emporium — Split](https://medium.com/@iseethieves/intro-to-rop-rop-emporium-split-9b2ec6d4db08)
+
+- [64-bit Linux Return-Oriented Programming](http://crypto.stanford.edu/~blynn/rop/) -- by Ben Lynn
+
+- Windows Kernel Exploitation Tutorial -- by rootkit
+  - [Part 1: Setting up the Environment](https://rootkits.xyz/blog/2017/06/kernel-setting-up/)
+  - [Part 2: Stack Overflow](https://rootkits.xyz/blog/2017/08/kernel-stack-overflow/)
+  - [Part 3: Arbitrary Memory Overwrite (Write-What-Where)](https://rootkits.xyz/blog/2017/09/kernel-write-what-where/)
+
+- [Type-Safety in Programming Languages](http://www.pl-enthusiast.net/2014/08/05/type-safety/) -- by Michael Hicks
+
+- [Memory-Safety in Programming Languages](http://www.pl-enthusiast.net/2014/07/21/memory-safety/) -- by Michael Hicks
