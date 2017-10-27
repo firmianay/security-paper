@@ -22,6 +22,9 @@
 - [Heap Exploitation ~ Abusing Use-After-Free](https://0x00sec.org/t/heap-exploitation-abusing-use-after-free/3580) -- by r3kt
 - [Double Free浅析](http://www.vuln.cn/6172) -- by explorer
 - [PWN之堆内存管理](https://paper.seebug.org/255/) -- by jmpews
+- [逆向安全系列：Use After Free漏洞浅析](http://bobao.360.cn/learning/detail/3379.html) -- by ray_cp
+- [堆溢出漏洞简介](http://libc.pw/2015/08/04/%E5%A0%86%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E7%AE%80%E4%BB%8B/) -- by zh-explorer
+- [glibc内存分配与回收过程图解](http://blog.csdn.net/maokelong95/article/details/52006379) -- by 猫科龙
 
 ### Tools
 - [PEDA - Python Exploit Development Assistance for GDB](https://github.com/longld/peda)
@@ -41,6 +44,9 @@
 - [Linux系统下格式化字符串利用研究](https://paper.seebug.org/246/) -- by Hcamael
 
 - [Linux中的GOT和PLT到底是个啥？](http://www.freebuf.com/articles/system/135685.html) -- by PhyzX
+
+### Crackme
+[crackmes.cf](http://crackmes.cf/)
 
 
 ## TODO
@@ -189,3 +195,23 @@
 - [Type-Safety in Programming Languages](http://www.pl-enthusiast.net/2014/08/05/type-safety/) -- by Michael Hicks
 
 - [Memory-Safety in Programming Languages](http://www.pl-enthusiast.net/2014/07/21/memory-safety/) -- by Michael Hicks
+
+- [CS 252r: Advanced Topics in Programming Languages](http://web-static-aws.seas.harvard.edu/courses/cs252/2011sp/) -- by Prof. Stephen Chong
+
+- [X86 EXPLOITATION 101](https://gbmaster.wordpress.com/) -- by GB_MASTER
+
+- [Glibc Adventures: The Forgotten Chunks](https://info.contextis.com/acton/attachment/24535/f-02c8/1/-/-/-/-/Glibc%20Adventures%3A%20The%20forgotten%20chunks.pdf) -- by Francois Goichon
+
+- [heap overflow&溢出保护和绕过](https://www.tuicool.com/articles/aY7Fzav)
+
+- [Libc堆管理机制及漏洞利用技术 (一）](http://www.freebuf.com/articles/system/91527.html?utm_source=tuicool&utm_medium=referral) -- by ysyy
+
+- [堆溢出的unlink利用方法](https://www.tuicool.com/articles/E3Ezu2u)
+
+- [Linux堆溢出漏洞利用之unlink](https://www.tuicool.com/articles/iium6fn)
+
+- [浅析Linux堆溢出之fastbin](http://www.freebuf.com/news/88660.html?utm_source=tuicool&utm_medium=referral) -- by 银河实验室
+
+- [Linux堆溢出利用:unlink](https://www.tuicool.com/articles/nyEvU3Q) -- by v-v.mom
+
+- [堆之House of Spirit](http://bobao.360.cn/learning/detail/3417.html) -- by ray_cp
