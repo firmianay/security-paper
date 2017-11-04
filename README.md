@@ -14,6 +14,11 @@
   - [一步一步学ROP之linux_x64篇](http://www.vuln.cn/6644)
   - [一步一步学ROP之gadgets和2free篇](http://www.vuln.cn/6643)
   - [一步一步学ROP之Android ARM 32位篇](http://www.vuln.cn/6642)
+- [ROP Emporium](https://ropemporium.com)
+- [Intro to ROP: ROP Emporium — Split](https://medium.com/@iseethieves/intro-to-rop-rop-emporium-split-9b2ec6d4db08)
+- [64-bit Linux Return-Oriented Programming](http://crypto.stanford.edu/~blynn/rop/) -- by Ben Lynn
+- [Introduction to return oriented programming (ROP)](http://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html) -- by Alex Reece
+- [现代栈溢出利用技术基础：ROP](http://bobao.360.cn/learning/detail/3694.html) -- by beswing
 
 ### Heap
 - [Syscalls used by malloc](https://sploitfun.wordpress.com/2015/02/11/syscalls-used-by-malloc/) -- by sploitfun
@@ -183,10 +188,6 @@
 
 - [Static Program Analysis](https://cs.au.dk/~amoeller/spa/) -- by Anders
 
-- [Intro to ROP: ROP Emporium — Split](https://medium.com/@iseethieves/intro-to-rop-rop-emporium-split-9b2ec6d4db08)
-
-- [64-bit Linux Return-Oriented Programming](http://crypto.stanford.edu/~blynn/rop/) -- by Ben Lynn
-
 - Windows Kernel Exploitation Tutorial -- by rootkit
   - [Part 1: Setting up the Environment](https://rootkits.xyz/blog/2017/06/kernel-setting-up/)
   - [Part 2: Stack Overflow](https://rootkits.xyz/blog/2017/08/kernel-stack-overflow/)
@@ -215,3 +216,21 @@
 - [Linux堆溢出利用:unlink](https://www.tuicool.com/articles/nyEvU3Q) -- by v-v.mom
 
 - [堆之House of Spirit](http://bobao.360.cn/learning/detail/3417.html) -- by ray_cp
+
+- [ctf-HITCON-2016-houseoforange学习](http://www.cnblogs.com/shangye/p/6268981.html) -- by 一肩担风月
+
+- [CTF Pwn之创造奇迹的Top Chunk](http://bobao.360.cn/ctf/detail/178.html) -- by for_while
+
+- [unsorted bin attack分析](http://bobao.360.cn/learning/detail/3296.html) -- by ray_cp
+
+- [linux堆溢出学习之unsafe unlink](http://blog.csdn.net/qq_29343201/article/details/53558216) -- by Anciety
+
+- [手把手教你栈溢出从入门到放弃（上）](https://zhuanlan.zhihu.com/p/25816426) -- by Jwizard
+
+- [手把手教你栈溢出从入门到放弃（下）](https://zhuanlan.zhihu.com/p/25892385) -- by Jwizard
+
+- [Return-oriented Programming:Exploitation without Code Injection](https://www.blackhat.com/presentations/bh-usa-08/Shacham/BH_US_08_Shacham_Return_Oriented_Programming.pdf) -- by Erik Buchanan
+
+- [Return-Oriented Programming:Systems, Languages, and Applications](https://cseweb.ucsd.edu/~hovav/dist/rop.pdf) -- by RYAN ROEMER
+
+- [Z3一把梭：用约束求解搞定一类CTF题](https://zhuanlan.zhihu.com/p/30548907) -- by 朱文雷
