@@ -7,6 +7,7 @@
 ### Courses
 - [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/) -- by RPISEC
 - [FuzzySecurity](https://www.fuzzysecurity.com/tutorials.html)
+- [Advanced Digital Forensics and Data Reverse Engineering](http://www.utdallas.edu/~zxl111930/fall2011.html)
 
 ### ROP
 - [一步一步学ROP](https://github.com/zhengmin1989/ROP_STEP_BY_STEP) -- by 蒸米
@@ -19,6 +20,10 @@
 - [64-bit Linux Return-Oriented Programming](http://crypto.stanford.edu/~blynn/rop/) -- by Ben Lynn
 - [Introduction to return oriented programming (ROP)](http://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html) -- by Alex Reece
 - [现代栈溢出利用技术基础：ROP](http://bobao.360.cn/learning/detail/3694.html) -- by beswing
+- [Return-oriented Programming:Exploitation without Code Injection](https://www.blackhat.com/presentations/bh-usa-08/Shacham/BH_US_08_Shacham_Return_Oriented_Programming.pdf) -- by Erik Buchanan
+- [Return-Oriented Programming:Systems, Languages, and Applications](https://cseweb.ucsd.edu/~hovav/dist/rop.pdf) -- by RYAN ROEMER
+- [Blind Return Oriented Programming (BROP)](http://www.scs.stanford.edu/brop/) -- by A. Bittau
+- [Finding Function's Load Address](http://uaf.io/exploitation/misc/2016/04/02/Finding-Functions.html)
 
 ### Heap
 - [Syscalls used by malloc](https://sploitfun.wordpress.com/2015/02/11/syscalls-used-by-malloc/) -- by sploitfun
@@ -152,8 +157,6 @@
 
 - [Advances in format string exploitation](http://phrack.org/issues/59/7.html) -- by gera, riq
 
-- [Finding Function's Load Address](http://uaf.io/exploitation/misc/2016/04/02/Finding-Functions.html)
-
 - [软件分析技术](http://sei.pku.edu.cn/~xiongyf04/SA/2016/main.htm) -- by 熊英飞
 
 - [Compiler Design](http://www.cs.cmu.edu/~fp/courses/15411-f14/index.html) -- by Frank Pfenning
@@ -229,8 +232,18 @@
 
 - [手把手教你栈溢出从入门到放弃（下）](https://zhuanlan.zhihu.com/p/25892385) -- by Jwizard
 
-- [Return-oriented Programming:Exploitation without Code Injection](https://www.blackhat.com/presentations/bh-usa-08/Shacham/BH_US_08_Shacham_Return_Oriented_Programming.pdf) -- by Erik Buchanan
-
-- [Return-Oriented Programming:Systems, Languages, and Applications](https://cseweb.ucsd.edu/~hovav/dist/rop.pdf) -- by RYAN ROEMER
-
 - [Z3一把梭：用约束求解搞定一类CTF题](https://zhuanlan.zhihu.com/p/30548907) -- by 朱文雷
+
+- [Smashing the stack in 2010](http://www.mgraziano.info/docs/stsi2010.pdf) -- by Andrea Cugliari
+
+- [BROP Attack之Nginx远程代码执行漏洞分析及利用](http://bobao.360.cn/learning/detail/3415.html) -- by k0shl
+
+- [Blind Return Oriented Programming (BROP) Attack](http://ytliu.info/blog/2014/05/31/blind-return-oriented-programming-brop-attack-yi/) -- by Liu Yutao
+
+- [Linker and Libraries Guide](https://docs.oracle.com/cd/E19683-01/817-3677/index.html)
+
+- [The advanced return-into-lib(c) exploits](http://hamsa.cs.northwestern.edu/media/readings/advanced_libc.pdf) -- by Nergal
+
+- [ROP stager + Return-to-dl-resolveによるASLR+DEP回避](http://inaz2.hatenablog.com/entry/2014/07/15/023406) -- by hatena
+
+- [x64でROP stager + Return-to-dl-resolveによるASLR+DEP回避をやってみる](http://inaz2.hatenablog.com/entry/2014/07/27/205322) -- by hatena
