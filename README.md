@@ -24,6 +24,11 @@
 - [Return-Oriented Programming:Systems, Languages, and Applications](https://cseweb.ucsd.edu/~hovav/dist/rop.pdf) -- by RYAN ROEMER
 - [Blind Return Oriented Programming (BROP)](http://www.scs.stanford.edu/brop/) -- by A. Bittau
 - [Finding Function's Load Address](http://uaf.io/exploitation/misc/2016/04/02/Finding-Functions.html)
+- [ELF如何摧毁圣诞——通过ELF动态装载机制进行漏洞利用](http://www.inforsec.org/wp/wp-content/uploads/2016/01/sec15-paper-di-frederico.pdf)
+- [ROP之return to dl-resolve](http://rk700.github.io/2015/08/09/return-to-dl-resolve/)
+- [BROP Attack之Nginx远程代码执行漏洞分析及利用](http://bobao.360.cn/learning/detail/3415.html) -- by k0shl
+- [Blind Return Oriented Programming (BROP) Attack](http://ytliu.info/blog/2014/05/31/blind-return-oriented-programming-brop-attack-yi/) -- by Liu Yutao
+- [如何在32位系统中使用ROP+Return-to-dl来绕过ASLR+DEP](http://www.freebuf.com/articles/system/149214.html)
 
 ### Heap
 - [Syscalls used by malloc](https://sploitfun.wordpress.com/2015/02/11/syscalls-used-by-malloc/) -- by sploitfun
@@ -62,10 +67,6 @@
 ## TODO
 
 - [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
-
-- [Shark恒零基础破解教程](http://www.xuepojie.com/thread-16898-1-1.html)
-
-- [吾爱破解『我是用户』破解实战](http://www.52pojie.cn/thread-271811-1-1.html)
 
 - [飞龙的安卓逆向教程](https://www.gitbook.com/book/wizardforcel/fl-android-re-tut/details)
 
@@ -236,10 +237,6 @@
 
 - [Smashing the stack in 2010](http://www.mgraziano.info/docs/stsi2010.pdf) -- by Andrea Cugliari
 
-- [BROP Attack之Nginx远程代码执行漏洞分析及利用](http://bobao.360.cn/learning/detail/3415.html) -- by k0shl
-
-- [Blind Return Oriented Programming (BROP) Attack](http://ytliu.info/blog/2014/05/31/blind-return-oriented-programming-brop-attack-yi/) -- by Liu Yutao
-
 - [Linker and Libraries Guide](https://docs.oracle.com/cd/E19683-01/817-3677/index.html)
 
 - [The advanced return-into-lib(c) exploits](http://hamsa.cs.northwestern.edu/media/readings/advanced_libc.pdf) -- by Nergal
@@ -247,3 +244,31 @@
 - [ROP stager + Return-to-dl-resolveによるASLR+DEP回避](http://inaz2.hatenablog.com/entry/2014/07/15/023406) -- by hatena
 
 - [x64でROP stager + Return-to-dl-resolveによるASLR+DEP回避をやってみる](http://inaz2.hatenablog.com/entry/2014/07/27/205322) -- by hatena
+
+- [Acronyms relevant to Executable and Linkable Format (ELF)](https://www.cs.stevens.edu/~jschauma/631/elf.html)
+
+- [Understanding the heap by breaking it](https://www.blackhat.com/presentations/bh-usa-07/Ferguson/Whitepaper/bh-usa-07-ferguson-WP.pdf)
+
+- Dance In Heap 系列
+  - [Dance In Heap（一）：浅析堆的申请释放及相应保护机制](http://www.freebuf.com/articles/system/151372.html)
+  - [Dance In Heap（二）：一些堆利用的方法（上）](http://www.freebuf.com/articles/system/151407.html)
+  - [Dance In Heap（三）：一些堆利用的方法（中）](http://www.freebuf.com/articles/system/151428.html)
+  - [Dance In Heap（四）：一些堆利用的方法（下）](http://www.freebuf.com/articles/system/151435.html)
+
+- [Linux堆漏洞之Use after free实例](http://d0m021ng.github.io/2017/03/04/PWN/Linux%E5%A0%86%E6%BC%8F%E6%B4%9E%E4%B9%8BUse-after-free%E5%AE%9E%E4%BE%8B/)
+
+- [Sigreturn Oriented Programming (SROP) Attack攻击原理](http://www.freebuf.com/articles/network/87447.html)
+
+- [An Introduction to Use After Free Vulnerabilities](https://www.purehacking.com/blog/lloyd-simon/an-introduction-to-use-after-free-vulnerabilities)
+
+- [逆向安全系列：Use After Free漏洞浅析](http://bobao.360.cn/learning/detail/3379.html?utm_source=tuicool&utm_medium=referral)
+
+- [Linux堆溢出之Fastbin Attack实例详解](http://bobao.360.cn/learning/detail/3996.html)
+
+- [Linux堆溢出漏洞利用之unlink](https://jaq.alibaba.com/community/art/show?spm=a313e.7916646.24000001.74.ZP8rXN&articleid=360)
+
+- [从一字节溢出到任意代码执行-Linux下堆漏洞利用](http://bobao.360.cn/learning/detail/3113.html)
+
+- [现代化的堆相关漏洞利用技巧](http://bobao.360.cn/learning/detail/3197.html)
+
+- [溢出科普：heap overflow&溢出保护和绕过](http://wooyun.jozxing.cc/static/drops/binary-14596.html)
