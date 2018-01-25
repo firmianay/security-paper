@@ -8,6 +8,7 @@
 - [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/) -- by RPISEC
 - [FuzzySecurity](https://www.fuzzysecurity.com/tutorials.html)
 - [Advanced Digital Forensics and Data Reverse Engineering](http://www.utdallas.edu/~zxl111930/fall2011.html)
+- [CNIT 127: Exploit Development](https://samsclass.info/127/127_F15.shtml)
 
 ### ROP
 - [一步一步学ROP](https://github.com/zhengmin1989/ROP_STEP_BY_STEP) -- by 蒸米
@@ -272,3 +273,11 @@
 - [现代化的堆相关漏洞利用技巧](http://bobao.360.cn/learning/detail/3197.html)
 
 - [溢出科普：heap overflow&溢出保护和绕过](http://wooyun.jozxing.cc/static/drops/binary-14596.html)
+
+- [Quick introduction into SAT/SMT solvers and symbolic execution](https://yurichev.com/writings/SAT_SMT_draft-EN.pdf)
+
+- [DECISION PROCEDURES FOR BIT-VECTORS, ARRAYS AND INTEGERS](https://ece.uwaterloo.ca/~vganesh/Publications_files/vg2007-PhD-STANFORD.pdf)
+
+- [I433 System & Protocol Security](http://homes.soic.indiana.edu/yh33/Teaching/I433-2016/)
+
+- [From fuzzing to 0-day](https://blog.techorganic.com/2014/05/14/from-fuzzing-to-0-day/)
