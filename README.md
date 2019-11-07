@@ -1,3 +1,16 @@
+# Security Papers
+
+## Architecture
+- [2019-Arm_Architecture_Reference_Manual](Architecture/2019-Arm_Architecture_Reference_Manual)
+- [2019-Intel_64_and_IA-32_Architectures_Software_Developers_Manual](Architecture/2019-Intel_64_and_IA-32_Architectures_Software_Developers_Manual)
+
+## IOT
+- [2019_CryptoREX_Large-scale_Analysis_of_Cryptographic_Misuse_in_IoT_Devices](IoT/2019_CryptoREX_Large-scale_Analysis_of_Cryptographic_Misuse_in_IoT_Devices)
+- [2019-Firmware_Extraction_hacklu](IoT/2019-Firmware_Extraction_hacklu)
+
+
+---
+
 # Binary Reading List
 *Things I know and will have to know about binaries.*
 
