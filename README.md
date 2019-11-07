@@ -1,192 +1,74 @@
 # Security Papers
 
-**各种安全相关资料收集，如侵权请联系我删除～**
+**（与本人兴趣强相关的）各种安全or计算机资料收集，如侵权请联系我删除～**
 
-*book, manual, paper, blog, slides, course, tool*
+*book, manual, paper, blog, slides, report, course, tool*
 
 ## Architecture
 - *2019 manual* [Arm_Architecture_Reference_Manual](Architecture/Arm_Architecture_Reference_Manual) -- Intel
 - *2019 manual* [Intel_64_and_IA-32_Architectures_Software_Developers_Manual](Architecture/Intel_64_and_IA-32_Architectures_Software_Developers_Manual) -- Arm
 
-## IOT
-- *2019 paper* [CryptoREX_Large-scale_Analysis_of_Cryptographic_Misuse_in_IoT_Devices](IoT/CryptoREX_Large-scale_Analysis_of_Cryptographic_Misuse_in_IoT_Devices) -- Li Zhang
-- *2019 slides* [Firmware_Extraction_hacklu](IoT/Firmware_Extraction_hacklu) -- Pauline Bourmeau
-
 ## Reverse Engineering
+- *2005 book* [Reversing_Secrets_of_Reverse_Engineering](Reverse-Engineering/Reversing_Secrets_of_Reverse_Engineering) -- Eldad Eilam
+- *2018 slides* [Unpacking_for_Dummies](Reverse-Engineering/Unpacking_for_Dummies) -- Paul Jung
 - *2019 book* [Reverse_Engineering_for_Beginners](Reverse-Engineering/Reverse_Engineering_for_Beginners) -- Dennis Yurichev
-- *2019 book* [SAT-SMT_by_example](Reverse-Engineering/SAT-SMT_by_example) -- Dennis Yurichev
-- *2019 book* [Static_Program_Analysis](Reverse-Engineering/Static_Program_Analysis) -- Anders Møller
+
+## Program Analysis
+- *2018 slides* [Intro_to_Binary_Analysis_with_Z3_and_Angr](Program-Analysis/Intro_to_Binary_Analysis_with_Z3_and_Angr) -- Sam Brown
+- *2018 slides* [The_NOT-SO-PROFITABLE_Path_Towards_Automated_Heap_Exploitation](Program-Analysis/The_NOT-SO-PROFITABLE_Path_Towards_Automated_Heap_Exploitation) -- Thaís Moreira Hamasaki
+- *2018 slides* [Finding_security_vulnerabilities_with_modern_fuzzing_techniques](Program-Analysis/Finding_security_vulnerabilities_with_modern_fuzzing_techniques) -- René Freingruber
+- *2019 book* [SAT-SMT_by_example](Program-Analysis/SAT-SMT_by_example) -- Dennis Yurichev
+- *2019 book* [Static_Program_Analysis](Program-Analysis/Static_Program_Analysis) -- Anders Møller
+
+## Malware
+- *2017 slides* [Dr_Honeypots](Malware/Dr_Honeypots) -- Guillaume Arcas
+- *2017 slides* [Digital_Vengeance_Exploiting_the_Most_Notorious_C&C_Toolkits](Malware/Digital_Vengeance_Exploiting_the_Most_Notorious_C&C_Toolkits) -- @professor__plum
+- *2018 slides* [Trojans_in_SS7-how_they_bypass_all_security_measures](Malware/Trojans_in_SS7-how_they_bypass_all_security_measures) -- Sergey Puzankov
+- *2019 slides* [Fileless_Malware_and_Process_Injection_in_Linux](Malware/Fileless_Malware_and_Process_Injection_in_Linux) -- Hendrick
 
 ## Exploitation
 - *2001 blog* [Exploiting_Format_String_Vulnerabilities](Exploitation/Exploiting_Format_String_Vulnerabilities) -- scut/team teso
 - *2001 blog* [The_advanced_return-into-libc_exploits](Exploitation/The_advanced_return-into-libc_exploits) -- Nergal
-- *2002 blog* [Exploiting_Format_String_Vulnerabilities](Exploitation/Exploiting_Format_String_Vulnerabilities) -- gera
+- *2002 blog* [Advances_in_format_string_exploitation](Exploitation/Advances_in_format_string_exploitation) -- gera
 - *2007 slides* [Understanding_the_heap_by_breaking_it](Exploitation/Understanding_the_heap_by_breaking_it) -- Justin N. Ferguson
+- *2008 book* [Hacking-The_Art_of_Exploitation_2nd_Edition](Exploitation/Hacking-The_Art_of_Exploitation_2nd_Edition) -- JON ERICKSON
 - *2009 paper* [Surgically_Returning_to_Randomized_libc](Exploitation/Surgically_Returning_to_Randomized_libc) -- Giampaolo Fresi Roglia
 - *2009 blog* [MALLOC_DES-MALEFICARUM](Exploitation/MALLOC_DES-MALEFICARUM) -- blackngel
+- *2011 book* [0day安全-软件漏洞分析技术第2版](Exploitation/0day安全-软件漏洞分析技术第2版) -- 王清
 - *2015 paper* [How_the_ELF_Ruined_Christmas](Exploitation/How_the_ELF_Ruined_Christmas) -- Alessandro Di Federico
-- *2015 slides* [掘金CTF_CTF中的内存漏洞利用技巧](Exploitation/掘金CTF_CTF中的内存漏洞利用技巧) -- 杨坤
 - *2015 blog* [Glibc_Adventures_The_Forgotten_Chunks](Exploitation/Glibc_Adventures_The_Forgotten_Chunks) -- François Goichon
+- *2015 course* [Modern_Binary_Exploitation](Exploitation/Modern_Binary_Exploitation) -- RPISEC
+- *2016 paper* [New_Exploit_Methods_against_Ptmalloc_of_GLIBC](Exploitation/New_Exploit_Methods_against_Ptmalloc_of_GLIBC) -- Tianyi Xie
 - *2017 paper* [ASLR_on_the_Line_Practical_Cache_Attacks_on_the_MMU](Exploitation/ASLR_on_the_Line_Practical_Cache_Attacks_on_the_MMU) -- Ben Gras
 - *2017 blog* [Cyber_Grand_Shellphish](Exploitation/Cyber_Grand_Shellphish) -- Team Shellphish
+
+## IOT
+- *2014 paper* [A_Large-Scale_Analysis_of_the_Security_of_Embedded_Firmwares](IoT/A_Large-Scale_Analysis_of_the_Security_of_Embedded_Firmwares) -- Andrei Costin
+- *2016 paper* [Towards_Automated_Dynamic_Analysis_for_Linux-based_Embedded_Firmware](IoT/Towards_Automated_Dynamic_Analysis_for_Linux-based_Embedded_Firmware) -- Daming D. Chen
+- *2018 report* [智能设备安全分析手册](IoT/智能设备安全分析手册) -- 绿盟
+- *2019 paper* [CryptoREX_Large-scale_Analysis_of_Cryptographic_Misuse_in_IoT_Devices](IoT/CryptoREX_Large-scale_Analysis_of_Cryptographic_Misuse_in_IoT_Devices) -- Li Zhang
+- *2019 slides* [Firmware_Extraction](IoT/Firmware_Extraction) -- Pauline Bourmeau
+
+## Windows
 
 ## Linux
 - *2007 blog* [Ltrace_Internals](Linux/Ltrace_Internals) -- Rodrigo Rubira Branco
 - *2011 blog* [Glibc内存管理_Ptmalloc2源代码分析](Linux/Glibc内存管理_Ptmalloc2源代码分析) -- 华庭(庄明强)
+- *2016 book* [Learning_Linux_Binary_Analysis](Linux/Learning_Linux_Binary_Analysis) -- Ryan "elfmaster" O'Neill
+- *2017 slides* [GDB基础](Linux/GDB基础) -- 张银奎
 
+## Compiler
+- *2014 book* [Getting_Started_with_LLVM_Core_Libraries](Compiler/Getting_Started_with_LLVM_Core_Libraries) -- Bruno Cardoso Lopes
 
----
+## Cryptography
+- *2017 slides* [API_design_for_cryptography](Cryptography/API_design_for_cryptography) -- Frank Denis
 
-# Binary Reading List
-*Things I know and will have to know about binaries.*
+## CTF
+- *2015 slides* [掘金CTF_CTF中的内存漏洞利用技巧](CTF/掘金CTF_CTF中的内存漏洞利用技巧) -- 杨坤
+- *2015 slides* [PLAY_WITH_LINUX_HEAP](CTF/PLAY_WITH_LINUX_HEAP) -- memeda
 
-### Courses
-- [Modern Binary Exploitation](http://security.cs.rpi.edu/courses/binexp-spring2015/) -- by RPISEC
-- [FuzzySecurity](https://www.fuzzysecurity.com/tutorials.html)
-- [Advanced Digital Forensics and Data Reverse Engineering](http://www.utdallas.edu/~zxl111930/fall2011.html)
-- [CNIT 127: Exploit Development](https://samsclass.info/127/127_F15.shtml)
-
-### ROP
-- [一步一步学ROP](https://github.com/zhengmin1989/ROP_STEP_BY_STEP) -- by 蒸米
-  - [一步一步学ROP之linux_x86篇](http://www.vuln.cn/6645)
-  - [一步一步学ROP之linux_x64篇](http://www.vuln.cn/6644)
-  - [一步一步学ROP之gadgets和2free篇](http://www.vuln.cn/6643)
-  - [一步一步学ROP之Android ARM 32位篇](http://www.vuln.cn/6642)
-- [ROP Emporium](https://ropemporium.com)
-- [Intro to ROP: ROP Emporium — Split](https://medium.com/@iseethieves/intro-to-rop-rop-emporium-split-9b2ec6d4db08)
-- [64-bit Linux Return-Oriented Programming](http://crypto.stanford.edu/~blynn/rop/) -- by Ben Lynn
-- [Introduction to return oriented programming (ROP)](http://codearcana.com/posts/2013/05/28/introduction-to-return-oriented-programming-rop.html) -- by Alex Reece
-- [现代栈溢出利用技术基础：ROP](http://bobao.360.cn/learning/detail/3694.html) -- by beswing
-- [Return-oriented Programming:Exploitation without Code Injection](https://www.blackhat.com/presentations/bh-usa-08/Shacham/BH_US_08_Shacham_Return_Oriented_Programming.pdf) -- by Erik Buchanan
-- [Return-Oriented Programming:Systems, Languages, and Applications](https://cseweb.ucsd.edu/~hovav/dist/rop.pdf) -- by RYAN ROEMER
-- [Blind Return Oriented Programming (BROP)](http://www.scs.stanford.edu/brop/) -- by A. Bittau
-- [Finding Function's Load Address](http://uaf.io/exploitation/misc/2016/04/02/Finding-Functions.html)
-- [ROP之return to dl-resolve](http://rk700.github.io/2015/08/09/return-to-dl-resolve/)
-- [BROP Attack之Nginx远程代码执行漏洞分析及利用](http://bobao.360.cn/learning/detail/3415.html) -- by k0shl
-- [Blind Return Oriented Programming (BROP) Attack](http://ytliu.info/blog/2014/05/31/blind-return-oriented-programming-brop-attack-yi/) -- by Liu Yutao
-- [如何在32位系统中使用ROP+Return-to-dl来绕过ASLR+DEP](http://www.freebuf.com/articles/system/149214.html)
-
-### Heap
-- [Syscalls used by malloc](https://sploitfun.wordpress.com/2015/02/11/syscalls-used-by-malloc/) -- by sploitfun
-- [Understanding glibc malloc](https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/comment-page-1/?blogsub=confirming#subscribe-blog%E3%80%82)
-- [Heap Exploitation ~ Abusing Use-After-Free](https://0x00sec.org/t/heap-exploitation-abusing-use-after-free/3580) -- by r3kt
-- [Double Free浅析](http://www.vuln.cn/6172) -- by explorer
-- [PWN之堆内存管理](https://paper.seebug.org/255/) -- by jmpews
-- [逆向安全系列：Use After Free漏洞浅析](http://bobao.360.cn/learning/detail/3379.html) -- by ray_cp
-- [堆溢出漏洞简介](http://libc.pw/2015/08/04/%E5%A0%86%E6%BA%A2%E5%87%BA%E6%BC%8F%E6%B4%9E%E7%AE%80%E4%BB%8B/) -- by zh-explorer
-- [glibc内存分配与回收过程图解](http://blog.csdn.net/maokelong95/article/details/52006379) -- by 猫科龙
-
-### Format String
-- [Introduction to Format String exploits](http://codearcana.com/posts/2013/05/02/introduction-to-format-string-exploits.html) -- by Alex Reece
-- 格式化字符串漏洞利用小结 -- by tianyi201612
-  - [格式化字符串漏洞利用小结（一）](http://bobao.360.cn/learning/detail/3654.html)
-  - [格式化字符串漏洞利用小结（二）](http://bobao.360.cn/learning/detail/3674.html)
-  - [借助DynELF实现无libc的漏洞利用小结](http://bobao.360.cn/learning/detail/3298.html)
-- [格式化字符串blind pwn详细教程](http://bobao.360.cn/ctf/detail/189.html) -- by 4SUN4_C8
-- [Linux系统下格式化字符串利用研究](https://paper.seebug.org/246/) -- by Hcamael
-- [Linux中的GOT和PLT到底是个啥？](http://www.freebuf.com/articles/system/135685.html) -- by PhyzX
-
-## TODO
-- [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
-- [使用OllyDbg从零开始Cracking](http://bbs.pediy.com/thread-184679.htm)
-- [从逆向工程的角度来看C++](http://bbs.pediy.com/thread-87586.htm)
-- [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/)
-- [Buffer Overflow](https://dhavalkapil.com/blogs/Buffer-Overflow-Exploit/)
-- [Writing you own shellcode](http://paraschetal.in/writing-your-own-shellcode)
-- [SoK: Science, Security, and the Elusive Goal of Security as a Scientific Pursuit](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/scienceAndSecuritySoK.pdf)
-- [Stack based v/s Register based architectures and android's Dalvik VM](https://markfaction.wordpress.com/2012/07/15/stack-based-vs-register-based-virtual-machine-architecture-and-the-dalvik-vm/)
-- [How does a C debugger work?](https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work)
-- [How the heck do we get to main()?](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
-- [Smashing the Stack for Fun and Profit](http://insecure.org/stf/smashstack.html)
-- [GOT, PLT and Dynamic Sharing](https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html)
-- [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
-- [NX Bit - Does it protect the stack?](https://security.stackexchange.com/questions/47807/nx-bit-does-it-protect-the-stack/47825)
-- [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.nl/p/malware-analysis-tutorials-reverse.html) -- by Dr. Xiang Fu
-- [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
-- [Beej's Quick Guide to GDB](http://beej.us/guide/bggdb/)
-- [x86 Assembly](https://en.wikibooks.org/wiki/X86_Assembly)
-- [Corelan Team Blog](https://www.corelan.be/index.php/articles/)
-- [Using GDB to Develop Exploits](https://www.exploit-db.com/papers/13205/)
-- [x86-64 buffer overflow exploits and the borrowed code chunks exploitation technique](https://trailofbits.github.io/ctf/exploits/references/no-nx.pdf)
-- [The "Ultimate" Anti-Debugging Reference](http://pferrie.host22.com/papers/antidebug.pdf)
-- [Low-level Software Security: Attacks and Defenses](https://trailofbits.github.io/ctf/exploits/references/tr-2007-153.pdf)
-- [Heap exploitation](https://4ngelboy.blogspot.tw/2015/08/heap-exploitation.html) -- by Angelboy
-- [Advanced heap exploitation](https://4ngelboy.blogspot.tw/2016/03/advanced-heap-exploitation.html) -- by Angelboy
-- Hack The Virtual Memory -- by Julien Barbier
-  - [Hack The Virtual Memory: C strings & /proc](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
-  - [Hack The Virtual Memory: Python bytes](https://blog.holbertonschool.com/hack-the-virtual-memory-python-bytes/)
-  - [Hack the Virtual Memory: drawing the VM diagram](https://blog.holbertonschool.com/hack-the-virtual-memory-drawing-the-vm-diagram/)
-  - [Hack the Virtual Memory: malloc, the heap & the program break](https://blog.holbertonschool.com/hack-the-virtual-memory-malloc-the-heap-the-program-break/)
-- Exploit writing tutorial -- By Corelan Team
-  - [Stack Based Overflows](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/)
-  - [Stack Based Overflows – jumping to shellcode](https://www.corelan.be/index.php/2009/07/23/writing-buffer-overflow-exploits-a-quick-and-basic-stutorial-part-2/)
-  - [SEH Based Exploits](https://www.corelan.be/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/)
-  - [SEH Based Exploits – just another example](https://www.corelan.be/index.php/2009/07/28/seh-based-exploit-writing-tutorial-continued-just-another-example-part-3b/)
-  - [From Exploit to Metasploit – The basics](https://www.corelan.be/index.php/2009/08/12/exploit-writing-tutorials-part-4-from-exploit-to-metasploit-the-basics/)
-  - [How debugger modules & plugins can speed up basic exploit development](https://www.corelan.be/index.php/2009/09/05/exploit-writing-tutorial-part-5-how-debugger-modules-plugins-can-speed-up-basic-exploit-development/)
-  - [Bypassing Stack Cookies, SafeSeh, SEHOP, HW DEP and ASLR](https://www.corelan.be/index.php/2009/09/21/exploit-writing-tutorial-part-6-bypassing-stack-cookies-safeseh-hw-dep-and-aslr/)
-  - [Unicode – from 0x00410041 to calc](https://www.corelan.be/index.php/2009/11/06/exploit-writing-tutorial-part-7-unicode-from-0x00410041-to-calc/)
-  - [Win32 Egg Hunting](https://www.corelan.be/index.php/2010/01/09/exploit-writing-tutorial-part-8-win32-egg-hunting/)
-  - [Introduction to Win32 shellcoding](https://www.corelan.be/index.php/2010/02/25/exploit-writing-tutorial-part-9-introduction-to-win32-shellcoding/)
-  - [Chaining DEP with ROP](https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube/)
-  - [Heap Spraying Demystified](https://www.corelan.be/index.php/2011/12/31/exploit-writing-tutorial-part-11-heap-spraying-demystified/)
-- [软件分析技术](http://sei.pku.edu.cn/~xiongyf04/SA/2016/main.htm) -- by 熊英飞
-- [Compiler Design](http://www.cs.cmu.edu/~fp/courses/15411-f14/index.html) -- by Frank Pfenning
-- [Optimizing Compilers](http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15745-s14/www/index.html) -- by Todd C. Mowry
-- [System Security and Binary Code Analysis](http://www.utdallas.edu/~zhiqiang.lin/spring2012.html)
-- [Main is usually a function. So then when is it not?](http://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html) -- by James Rowe
-- [Heap Exploitation](https://heap-exploitation.dhavalkapil.com/) -- by Dhaval Kapil
-- Linux堆内存管理深入分析 -- by 阿里聚安全
-  - [Linux堆内存管理深入分析（上）](http://www.freebuf.com/articles/system/104144.html)
-  - [Linux堆内存管理深入分析（下）](http://www.freebuf.com/articles/security-management/105285.html)
-- Windows Exploit开发系列教程 -- by Netfairy, lufei
-  - [Windows Exploit开发系列教程——堆喷射（一）](http://bobao.360.cn/learning/detail/3548.html)
-  - [Windows Exploit开发系列教程——堆喷射（二）](http://bobao.360.cn/learning/detail/3555.html)
-- [Notes About Heap Overflow Under Linux](https://blog.iret.xyz/article.aspx/linux_heapoverflow_enterance) -- by Silver
-- [如何理解堆和堆溢出漏洞的利用？](http://www.freebuf.com/vuls/98404.html) -- by 老王隔壁的白帽子
-- [how2heap](https://github.com/shellphish/how2heap) -- by shellphish
-  - [how2heap总结-上](http://bobao.360.cn/learning/detail/4386.html)
-  - [how2heap总结-下](http://bobao.360.cn/learning/detail/4383.html) by 7o8v_
-- [Principles of Program Analysis](http://www.imm.dtu.dk/~hrni/PPA/ppasup2004.html) -- by Nielson
-- Windows Kernel Exploitation Tutorial -- by rootkit
-  - [Part 1: Setting up the Environment](https://rootkits.xyz/blog/2017/06/kernel-setting-up/)
-  - [Part 2: Stack Overflow](https://rootkits.xyz/blog/2017/08/kernel-stack-overflow/)
-  - [Part 3: Arbitrary Memory Overwrite (Write-What-Where)](https://rootkits.xyz/blog/2017/09/kernel-write-what-where/)
-- [Type-Safety in Programming Languages](http://www.pl-enthusiast.net/2014/08/05/type-safety/) -- by Michael Hicks
-- [Memory-Safety in Programming Languages](http://www.pl-enthusiast.net/2014/07/21/memory-safety/) -- by Michael Hicks
-- [CS 252r: Advanced Topics in Programming Languages](http://web-static-aws.seas.harvard.edu/courses/cs252/2011sp/) -- by Prof. Stephen Chong
-- [X86 EXPLOITATION 101](https://gbmaster.wordpress.com/) -- by GB_MASTER
-- [heap overflow&溢出保护和绕过](https://www.tuicool.com/articles/aY7Fzav)
-- [Libc堆管理机制及漏洞利用技术 (一）](http://www.freebuf.com/articles/system/91527.html?utm_source=tuicool&utm_medium=referral) -- by ysyy
-- [堆溢出的unlink利用方法](https://www.tuicool.com/articles/E3Ezu2u)
-- [Linux堆溢出漏洞利用之unlink](https://www.tuicool.com/articles/iium6fn)
-- [浅析Linux堆溢出之fastbin](http://www.freebuf.com/news/88660.html?utm_source=tuicool&utm_medium=referral) -- by 银河实验室
-- [Linux堆溢出利用:unlink](https://www.tuicool.com/articles/nyEvU3Q) -- by v-v.mom
-- [堆之House of Spirit](http://bobao.360.cn/learning/detail/3417.html) -- by ray_cp
-- [ctf-HITCON-2016-houseoforange学习](http://www.cnblogs.com/shangye/p/6268981.html) -- by 一肩担风月
-- [CTF Pwn之创造奇迹的Top Chunk](http://bobao.360.cn/ctf/detail/178.html) -- by for_while
-- [unsorted bin attack分析](http://bobao.360.cn/learning/detail/3296.html) -- by ray_cp
-- [linux堆溢出学习之unsafe unlink](http://blog.csdn.net/qq_29343201/article/details/53558216) -- by Anciety
-- [手把手教你栈溢出从入门到放弃（上）](https://zhuanlan.zhihu.com/p/25816426) -- by Jwizard
-- [手把手教你栈溢出从入门到放弃（下）](https://zhuanlan.zhihu.com/p/25892385) -- by Jwizard
-- [Z3一把梭：用约束求解搞定一类CTF题](https://zhuanlan.zhihu.com/p/30548907) -- by 朱文雷
-- [Smashing the stack in 2010](http://www.mgraziano.info/docs/stsi2010.pdf) -- by Andrea Cugliari
-- [Linker and Libraries Guide](https://docs.oracle.com/cd/E19683-01/817-3677/index.html)
-- [ROP stager + Return-to-dl-resolveによるASLR+DEP回避](http://inaz2.hatenablog.com/entry/2014/07/15/023406) -- by hatena
-- [x64でROP stager + Return-to-dl-resolveによるASLR+DEP回避をやってみる](http://inaz2.hatenablog.com/entry/2014/07/27/205322) -- by hatena
-- [Acronyms relevant to Executable and Linkable Format (ELF)](https://www.cs.stevens.edu/~jschauma/631/elf.html)
-- Dance In Heap 系列
-  - [Dance In Heap（一）：浅析堆的申请释放及相应保护机制](http://www.freebuf.com/articles/system/151372.html)
-  - [Dance In Heap（二）：一些堆利用的方法（上）](http://www.freebuf.com/articles/system/151407.html)
-  - [Dance In Heap（三）：一些堆利用的方法（中）](http://www.freebuf.com/articles/system/151428.html)
-  - [Dance In Heap（四）：一些堆利用的方法（下）](http://www.freebuf.com/articles/system/151435.html)
-- [Linux堆漏洞之Use after free实例](http://d0m021ng.github.io/2017/03/04/PWN/Linux%E5%A0%86%E6%BC%8F%E6%B4%9E%E4%B9%8BUse-after-free%E5%AE%9E%E4%BE%8B/)
-- [Sigreturn Oriented Programming (SROP) Attack攻击原理](http://www.freebuf.com/articles/network/87447.html)
-- [An Introduction to Use After Free Vulnerabilities](https://www.purehacking.com/blog/lloyd-simon/an-introduction-to-use-after-free-vulnerabilities)
-- [逆向安全系列：Use After Free漏洞浅析](http://bobao.360.cn/learning/detail/3379.html?utm_source=tuicool&utm_medium=referral)
-- [Linux堆溢出之Fastbin Attack实例详解](http://bobao.360.cn/learning/detail/3996.html)
-- [从一字节溢出到任意代码执行-Linux下堆漏洞利用](http://bobao.360.cn/learning/detail/3113.html)
-- [现代化的堆相关漏洞利用技巧](http://bobao.360.cn/learning/detail/3197.html)
-- [DECISION PROCEDURES FOR BIT-VECTORS, ARRAYS AND INTEGERS](https://ece.uwaterloo.ca/~vganesh/Publications_files/vg2007-PhD-STANFORD.pdf)
-- [I433 System & Protocol Security](http://homes.soic.indiana.edu/yh33/Teaching/I433-2016/)
-- [From fuzzing to 0-day](https://blog.techorganic.com/2014/05/14/from-fuzzing-to-0-day/)
+## Others
+- *2018 slides* [Hypervisor-Level_Debugger_Benefits_Challenges](Others/Hypervisor-Level_Debugger_Benefits_Challenges) -- Mathieu Tarral
+- *2018 slides* [Reversing_Vulnerability_Research_of_Ethereum_Smart_Contracts](Others/Reversing_Vulnerability_Research_of_Ethereum_Smart_Contracts) -- Patrick Ventuzelo
+- *2019 blog* [The_Beginners_Guide_to_IDAPython](Others/The_Beginners_Guide_to_IDAPython) -- Alexander Hanel
+- *2019 manual* [VirtualBox_User_Manual](Others/VirtualBox_User_Manual) -- Oracle
