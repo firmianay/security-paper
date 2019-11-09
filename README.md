@@ -7,6 +7,7 @@
 ## Architecture
 - *2019 manual* [Arm_Architecture_Reference_Manual](Architecture/Arm_Architecture_Reference_Manual) -- Intel
 - *2019 manual* [Intel_64_and_IA-32_Architectures_Software_Developers_Manual](Architecture/Intel_64_and_IA-32_Architectures_Software_Developers_Manual) -- Arm
+- *2017 slides* [A_tour_of_the_ARM_architecture_and_its_Linux_support](Architecture/A_tour_of_the_ARM_architecture_and_its_Linux_support) -- Thomas Petazzoni
 
 ## Reverse Engineering
 - *2005 book* [Reversing_Secrets_of_Reverse_Engineering](Reverse-Engineering/Reversing_Secrets_of_Reverse_Engineering) -- Eldad Eilam
@@ -14,6 +15,7 @@
 - *2019 book* [Reverse_Engineering_for_Beginners](Reverse-Engineering/Reverse_Engineering_for_Beginners) -- Dennis Yurichev
 
 ## Program Analysis
+- *2004 book* [Principles_of_Program_Analysis](Program-Analysis/Principles_of_Program_Analysis) -- Flemming Nielson
 - *2018 slides* [Intro_to_Binary_Analysis_with_Z3_and_Angr](Program-Analysis/Intro_to_Binary_Analysis_with_Z3_and_Angr) -- Sam Brown
 - *2018 slides* [The_NOT-SO-PROFITABLE_Path_Towards_Automated_Heap_Exploitation](Program-Analysis/The_NOT-SO-PROFITABLE_Path_Towards_Automated_Heap_Exploitation) -- Thaís Moreira Hamasaki
 - *2018 slides* [Finding_security_vulnerabilities_with_modern_fuzzing_techniques](Program-Analysis/Finding_security_vulnerabilities_with_modern_fuzzing_techniques) -- René Freingruber
@@ -38,6 +40,7 @@
 - *2015 paper* [How_the_ELF_Ruined_Christmas](Exploitation/How_the_ELF_Ruined_Christmas) -- Alessandro Di Federico
 - *2015 blog* [Glibc_Adventures_The_Forgotten_Chunks](Exploitation/Glibc_Adventures_The_Forgotten_Chunks) -- François Goichon
 - *2015 course* [Modern_Binary_Exploitation](Exploitation/Modern_Binary_Exploitation) -- RPISEC
+- *2015 paper* [Automatic_Generation_of_Data-Oriented_Exploits](Exploitation/Automatic_Generation_of_Data-Oriented_Exploits) -- Hong Hu
 - *2016 paper* [New_Exploit_Methods_against_Ptmalloc_of_GLIBC](Exploitation/New_Exploit_Methods_against_Ptmalloc_of_GLIBC) -- Tianyi Xie
 - *2017 paper* [ASLR_on_the_Line_Practical_Cache_Attacks_on_the_MMU](Exploitation/ASLR_on_the_Line_Practical_Cache_Attacks_on_the_MMU) -- Ben Gras
 - *2017 blog* [Cyber_Grand_Shellphish](Exploitation/Cyber_Grand_Shellphish) -- Team Shellphish
@@ -55,7 +58,12 @@
 - *2007 blog* [Ltrace_Internals](Linux/Ltrace_Internals) -- Rodrigo Rubira Branco
 - *2011 blog* [Glibc内存管理_Ptmalloc2源代码分析](Linux/Glibc内存管理_Ptmalloc2源代码分析) -- 华庭(庄明强)
 - *2016 book* [Learning_Linux_Binary_Analysis](Linux/Learning_Linux_Binary_Analysis) -- Ryan "elfmaster" O'Neill
+- *2016 slides* [Anatomy_of_cross-compilation_toolchains](Linux/Anatomy_of_cross-compilation_toolchains)
 - *2017 slides* [GDB基础](Linux/GDB基础) -- 张银奎
+- *2017 slides* [Tips_for_Linux_Kernel_Development](Linux/Tips_for_Linux_Kernel_Development) -- Jessica Yu
+- *2019 slides* [Linux_Kernel_and_Driver_Development_Training](Linux/Linux_Kernel_and_Driver_Development_Training) -- Bootlin
+- *2019 slides* [Embedded_Linux_system_development](Linux/Embedded_Linux_system_development) -- Bootlin
+- *2019 slides* [Buildroot_Training](Linux/Buildroot_Training) -- Bootlin
 
 ## Compiler
 - *2007 book* [Compilers_Principles_Techniques_and_Tools_2nd_Edition](Compiler/Compilers_Principles_Techniques_and_Tools_2nd_Edition) -- Alfred V. Aho
@@ -64,13 +72,17 @@
 - *2014 book* [Getting_Started_with_LLVM_Core_Libraries](Compiler/Getting_Started_with_LLVM_Core_Libraries) -- Bruno Cardoso Lopes
 
 ## Cryptography
+- *2017 book* [A_Graduate_Course_in_Applied_Cryptography](Cryptography/A_Graduate_Course_in_Applied_Cryptography) -- Dan Boneh
 - *2017 slides* [API_design_for_cryptography](Cryptography/API_design_for_cryptography) -- Frank Denis
 
 ## CTF
 - *2015 slides* [掘金CTF_CTF中的内存漏洞利用技巧](CTF/掘金CTF_CTF中的内存漏洞利用技巧) -- 杨坤
 - *2015 slides* [PLAY_WITH_LINUX_HEAP](CTF/PLAY_WITH_LINUX_HEAP) -- memeda
+- *2015 blog* [Linux_x86漏洞利用系列教程](CTF/Linux_x86漏洞利用系列教程) -- sploitfun
 
 ## Others
+- *2017 report* [X41_Browser_Security_White_Paper](Others/X41_Browser_Security_White_Paper) -- Markus Vervier
+- *2017 report* [Cure53_Browser_Security_White_Paper](Others/Cure53_Browser_Security_White_Paper) -- Dr.-Ing. Mario Heiderich
 - *2018 slides* [Hypervisor-Level_Debugger_Benefits_Challenges](Others/Hypervisor-Level_Debugger_Benefits_Challenges) -- Mathieu Tarral
 - *2018 slides* [Reversing_Vulnerability_Research_of_Ethereum_Smart_Contracts](Others/Reversing_Vulnerability_Research_of_Ethereum_Smart_Contracts) -- Patrick Ventuzelo
 - *2019 blog* [The_Beginners_Guide_to_IDAPython](Others/The_Beginners_Guide_to_IDAPython) -- Alexander Hanel

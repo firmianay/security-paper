@@ -47,7 +47,6 @@
 - [Linux中的GOT和PLT到底是个啥？](http://www.freebuf.com/articles/system/135685.html) -- by PhyzX
 
 ## TODO
-- [Linux (x86) Exploit Development Series](https://sploitfun.wordpress.com/2015/06/26/linux-x86-exploit-development-tutorial-series/)
 - [使用OllyDbg从零开始Cracking](http://bbs.pediy.com/thread-184679.htm)
 - [从逆向工程的角度来看C++](http://bbs.pediy.com/thread-87586.htm)
 - [Shellcode Injection](https://dhavalkapil.com/blogs/Shellcode-Injection/)
