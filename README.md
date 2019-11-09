@@ -58,6 +58,9 @@
 - *2017 slides* [GDB基础](Linux/GDB基础) -- 张银奎
 
 ## Compiler
+- *2007 book* [Compilers_Principles_Techniques_and_Tools_2nd_Edition](Compiler/Compilers_Principles_Techniques_and_Tools_2nd_Edition) -- Alfred V. Aho
+- *2011 book* [Engineering_a_Compiler_2nd_edition](Compiler/Engineering_a_Compiler_2nd_edition) -- Keith D. Cooper
+- *2012 book* [Modern_Compiler_Design_2nd_Edition](Compiler/Modern_Compiler_Design_2nd_Edition) -- Dick Grune
 - *2014 book* [Getting_Started_with_LLVM_Core_Libraries](Compiler/Getting_Started_with_LLVM_Core_Libraries) -- Bruno Cardoso Lopes
 
 ## Cryptography
