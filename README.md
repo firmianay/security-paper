@@ -1,10 +1,11 @@
 # Security Papers
-
+
 **（与本人兴趣强相关的）各种安全or计算机资料收集，如侵权请联系我删除～**
 
-*book, manual, paper, blog, slides, report, course, tool*
+*book, manual, paper, blog, slides, report, course, tool, online*
 
 ## Architecture
+- *2014 manual* [ARM_Architecture_Reference_Manual_ARMv7-A_and_ARMv7-R_edition](Architecture/ARM_Architecture_Reference_Manual_ARMv7-A_and_ARMv7-R_edition) -- Arm
 - *2019 manual* [Arm_Architecture_Reference_Manual](Architecture/Arm_Architecture_Reference_Manual) -- Intel
 - *2019 manual* [Intel_64_and_IA-32_Architectures_Software_Developers_Manual](Architecture/Intel_64_and_IA-32_Architectures_Software_Developers_Manual) -- Arm
 - *2017 slides* [A_tour_of_the_ARM_architecture_and_its_Linux_support](Architecture/A_tour_of_the_ARM_architecture_and_its_Linux_support) -- Thomas Petazzoni
@@ -16,6 +17,7 @@
 
 ## Program Analysis
 - *2004 book* [Principles_of_Program_Analysis](Program-Analysis/Principles_of_Program_Analysis) -- Flemming Nielson
+- *2016 paper* [SVF_Interprocedural_Static_Value-Flow_Analysis_in_LLVM](Program-Analysis/SVF_Interprocedural_Static_Value-Flow_Analysis_in_LLVM) -- Yulei Sui
 - *2018 slides* [Intro_to_Binary_Analysis_with_Z3_and_Angr](Program-Analysis/Intro_to_Binary_Analysis_with_Z3_and_Angr) -- Sam Brown
 - *2018 slides* [The_NOT-SO-PROFITABLE_Path_Towards_Automated_Heap_Exploitation](Program-Analysis/The_NOT-SO-PROFITABLE_Path_Towards_Automated_Heap_Exploitation) -- Thaís Moreira Hamasaki
 - *2018 slides* [Finding_security_vulnerabilities_with_modern_fuzzing_techniques](Program-Analysis/Finding_security_vulnerabilities_with_modern_fuzzing_techniques) -- René Freingruber
@@ -66,10 +68,21 @@
 - *2019 slides* [Buildroot_Training](Linux/Buildroot_Training) -- Bootlin
 
 ## Compiler
+- *1994 paper* [Reverse_Compilation_Techniques](Compiler/Reverse_Compilation_Techniques) -- Cristina Cifuentes
 - *2007 book* [Compilers_Principles_Techniques_and_Tools_2nd_Edition](Compiler/Compilers_Principles_Techniques_and_Tools_2nd_Edition) -- Alfred V. Aho
 - *2011 book* [Engineering_a_Compiler_2nd_edition](Compiler/Engineering_a_Compiler_2nd_edition) -- Keith D. Cooper
 - *2012 book* [Modern_Compiler_Design_2nd_Edition](Compiler/Modern_Compiler_Design_2nd_Edition) -- Dick Grune
 - *2014 book* [Getting_Started_with_LLVM_Core_Libraries](Compiler/Getting_Started_with_LLVM_Core_Libraries) -- Bruno Cardoso Lopes
+- *2014 slides* [BHUSA2014-capstone](Compiler/BHUSA2014-capstone) -- Nguyen Anh Quynh
+- *2016 slides* [BHUSA2016-keystone](Compiler/BHUSA2016-keystone) -- Nguyen Anh Quynh
+
+## Virtualization & Emulation
+- *2015 slides* [BHUSA2015-unicorn](Virtualization/BHUSA2015-unicorn) -- Nguyen Anh Quynh
+- *2018 slides* [Hypervisor-Level_Debugger_Benefits_Challenges](Virtualization/Hypervisor-Level_Debugger_Benefits_Challenges) -- Mathieu Tarral
+- *2018 slides* [unboxing_your_virtualboxes](Virtualization/unboxing_your_virtualboxes) -- Niklas Baumstark
+- *2018 slides* [thinking_outside_the_virtualbox](Virtualization/thinking_outside_the_virtualbox) -- Niklas Baumstark
+- *2018 blog* [intel_virtualisation_how_vt-x_kvm_and_qemu_work_together](Virtualization/intel_virtualisation_how_vt-x_kvm_and_qemu_work_together) -- Okash Khawaja
+- *2019 manual* [VirtualBox_User_Manual](Virtualization/VirtualBox_User_Manual) -- Oracle
 
 ## Cryptography
 - *2017 book* [A_Graduate_Course_in_Applied_Cryptography](Cryptography/A_Graduate_Course_in_Applied_Cryptography) -- Dan Boneh
@@ -81,9 +94,9 @@
 - *2015 blog* [Linux_x86漏洞利用系列教程](CTF/Linux_x86漏洞利用系列教程) -- sploitfun
 
 ## Others
+- *2013 book* [C和C++安全编码_第2版](Others/C和C++安全编码_第2版) -- Robert C. Seacord
 - *2017 report* [X41_Browser_Security_White_Paper](Others/X41_Browser_Security_White_Paper) -- Markus Vervier
 - *2017 report* [Cure53_Browser_Security_White_Paper](Others/Cure53_Browser_Security_White_Paper) -- Dr.-Ing. Mario Heiderich
-- *2018 slides* [Hypervisor-Level_Debugger_Benefits_Challenges](Others/Hypervisor-Level_Debugger_Benefits_Challenges) -- Mathieu Tarral
 - *2018 slides* [Reversing_Vulnerability_Research_of_Ethereum_Smart_Contracts](Others/Reversing_Vulnerability_Research_of_Ethereum_Smart_Contracts) -- Patrick Ventuzelo
 - *2019 blog* [The_Beginners_Guide_to_IDAPython](Others/The_Beginners_Guide_to_IDAPython) -- Alexander Hanel
-- *2019 manual* [VirtualBox_User_Manual](Others/VirtualBox_User_Manual) -- Oracle
+- *2019 slides* [Bug_Hunting_in_Synology_NAS](Others/Bug_Hunting_in_Synology_NAS) -- Qian Chen
