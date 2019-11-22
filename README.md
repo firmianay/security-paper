@@ -94,7 +94,6 @@
 - *2015 blog* [Linux_x86漏洞利用系列教程](CTF/Linux_x86漏洞利用系列教程) -- sploitfun
 
 ## Others
-- *2013 book* [C和C++安全编码_第2版](Others/C和C++安全编码_第2版) -- Robert C. Seacord
 - *2017 report* [X41_Browser_Security_White_Paper](Others/X41_Browser_Security_White_Paper) -- Markus Vervier
 - *2017 report* [Cure53_Browser_Security_White_Paper](Others/Cure53_Browser_Security_White_Paper) -- Dr.-Ing. Mario Heiderich
 - *2018 slides* [Reversing_Vulnerability_Research_of_Ethereum_Smart_Contracts](Others/Reversing_Vulnerability_Research_of_Ethereum_Smart_Contracts) -- Patrick Ventuzelo
