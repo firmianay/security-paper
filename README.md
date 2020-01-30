@@ -46,13 +46,21 @@
 - *2016 paper* [New_Exploit_Methods_against_Ptmalloc_of_GLIBC](Exploitation/New_Exploit_Methods_against_Ptmalloc_of_GLIBC) -- Tianyi Xie
 - *2017 paper* [ASLR_on_the_Line_Practical_Cache_Attacks_on_the_MMU](Exploitation/ASLR_on_the_Line_Practical_Cache_Attacks_on_the_MMU) -- Ben Gras
 - *2017 blog* [Cyber_Grand_Shellphish](Exploitation/Cyber_Grand_Shellphish) -- Team Shellphish
+- *2019 paper* [安全漏洞自动利用综述](Exploitation/安全漏洞自动利用综述) -- 赵尚儒
 
 ## IOT
 - *2014 paper* [A_Large-Scale_Analysis_of_the_Security_of_Embedded_Firmwares](IoT/A_Large-Scale_Analysis_of_the_Security_of_Embedded_Firmwares) -- Andrei Costin
 - *2016 paper* [Towards_Automated_Dynamic_Analysis_for_Linux-based_Embedded_Firmware](IoT/Towards_Automated_Dynamic_Analysis_for_Linux-based_Embedded_Firmware) -- Daming D. Chen
+- *2017 paper* [物联网安全综述](IoT/物联网安全综述) -- 张玉清
+- *2018 paper* [智能家居安全综述](IoT/智能家居安全综述) -- 王基策
+- *2018 paper* [物联网操作系统安全研究综述](IoT/物联网操作系统安全研究综述) -- 彭安妮
 - *2018 report* [智能设备安全分析手册](IoT/智能设备安全分析手册) -- 绿盟
+- *2019 paper* [车联网安全综述](IoT/车联网安全综述) -- 李兴华
 - *2019 paper* [CryptoREX_Large-scale_Analysis_of_Cryptographic_Misuse_in_IoT_Devices](IoT/CryptoREX_Large-scale_Analysis_of_Cryptographic_Misuse_in_IoT_Devices) -- Li Zhang
 - *2019 slides* [Firmware_Extraction](IoT/Firmware_Extraction) -- Pauline Bourmeau
+- *2019 report* [2019物联网安全年报](IoT/2019物联网安全年报) -- 绿盟
+- *2019 blog* [ANATOMY OF A FIRMWARE ATTACK](IoT/ANATOMY_OF_A_FIRMWARE_ATTACK) -- Eclypsium
+- *2019 blog* [Toward_Automated_Firmware_Analysis_in_the_IoT_Era](IoT/Toward_Automated_Firmware_Analysis_in_the_IoT_Era) -- Grant Hernandez
 
 ## Windows
 
@@ -94,6 +102,7 @@
 - *2015 blog* [Linux_x86漏洞利用系列教程](CTF/Linux_x86漏洞利用系列教程) -- sploitfun
 
 ## Others
+- *2016 paper* [云计算环境安全综述](Others/云计算环境安全综述) -- 张玉清
 - *2017 report* [X41_Browser_Security_White_Paper](Others/X41_Browser_Security_White_Paper) -- Markus Vervier
 - *2017 report* [Cure53_Browser_Security_White_Paper](Others/Cure53_Browser_Security_White_Paper) -- Dr.-Ing. Mario Heiderich
 - *2018 slides* [Reversing_Vulnerability_Research_of_Ethereum_Smart_Contracts](Others/Reversing_Vulnerability_Research_of_Ethereum_Smart_Contracts) -- Patrick Ventuzelo
