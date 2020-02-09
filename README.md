@@ -31,14 +31,21 @@
 - *2019 slides* [Fileless_Malware_and_Process_Injection_in_Linux](Malware/Fileless_Malware_and_Process_Injection_in_Linux) -- Hendrick
 
 ## Exploitation
+- *1998 paper* [StackGuard_Automatic_Adaptive_Detection_and_Prevention_of_Buffer-Overflow_Attacks](Exploitation/StackGuard_Automatic_Adaptive_Detection_and_Prevention_of_Buffer-Overflow_Attacks) -- Crispin Cowan
 - *2001 blog* [Exploiting_Format_String_Vulnerabilities](Exploitation/Exploiting_Format_String_Vulnerabilities) -- scut/team teso
 - *2001 blog* [The_advanced_return-into-libc_exploits](Exploitation/The_advanced_return-into-libc_exploits) -- Nergal
 - *2002 blog* [Advances_in_format_string_exploitation](Exploitation/Advances_in_format_string_exploitation) -- gera
+- *2005 paper* [Control-Flow_Integrity_Principles_Implementations_and_Applications](Exploitation/Control-Flow_Integrity_Principles_Implementations_and_Applications) -- Mart´ın Abadi
 - *2007 slides* [Understanding_the_heap_by_breaking_it](Exploitation/Understanding_the_heap_by_breaking_it) -- Justin N. Ferguson
 - *2008 book* [Hacking-The_Art_of_Exploitation_2nd_Edition](Exploitation/Hacking-The_Art_of_Exploitation_2nd_Edition) -- JON ERICKSON
 - *2009 paper* [Surgically_Returning_to_Randomized_libc](Exploitation/Surgically_Returning_to_Randomized_libc) -- Giampaolo Fresi Roglia
 - *2009 blog* [MALLOC_DES-MALEFICARUM](Exploitation/MALLOC_DES-MALEFICARUM) -- blackngel
+- *2010 paper* [G-Free_Defeating_Return-Oriented_Programming_through_Gadget-less_Binaries](Exploitation/G-Free_Defeating_Return-Oriented_Programming_through_Gadget-less_Binaries) -- Kaan Onarlioglu
 - *2011 book* [0day安全-软件漏洞分析技术第2版](Exploitation/0day安全-软件漏洞分析技术第2版) -- 王清
+- *2012 paper* [Return-Oriented_Programming_Systems_Languages_and_Applications](Exploitation/Return-Oriented_Programming_Systems_Languages_and_Applications) -- RYAN ROEMER
+- *2013 paper* [Transparent_ROP_Exploit_Mitigation_using_Indirect_Branch_Tracing](Exploitation/Transparent_ROP_Exploit_Mitigation_using_Indirect_Branch_Tracing) -- Vasilis Pappas
+- *2014 paper* [Hacking_Blind](Exploitation/Hacking_Blind) -- Andrea Bittau
+- *2014 paper* [Framing_Signals—A_Return_to_Portable_Shellcode](Exploitation/Framing_Signals—A_Return_to_Portable_Shellcode) -- Erik Bosman
 - *2015 paper* [How_the_ELF_Ruined_Christmas](Exploitation/How_the_ELF_Ruined_Christmas) -- Alessandro Di Federico
 - *2015 blog* [Glibc_Adventures_The_Forgotten_Chunks](Exploitation/Glibc_Adventures_The_Forgotten_Chunks) -- François Goichon
 - *2015 course* [Modern_Binary_Exploitation](Exploitation/Modern_Binary_Exploitation) -- RPISEC
@@ -55,12 +62,15 @@
 - *2018 paper* [智能家居安全综述](IoT/智能家居安全综述) -- 王基策
 - *2018 paper* [物联网操作系统安全研究综述](IoT/物联网操作系统安全研究综述) -- 彭安妮
 - *2018 report* [智能设备安全分析手册](IoT/智能设备安全分析手册) -- 绿盟
+- *2018 paper* [What_You_Corrupt_Is_Not_What_You_Crash_Challenges_in_Fuzzing_Embedded_Devices](IoT/What_You_Corrupt_Is_Not_What_You_Crash_Challenges_in_Fuzzing_Embedded_Devices) -- Marius Muench
+- *2018 paper* [IoTFuzzer_Discovering_Memory_Corruptions_in_IoT_Through_App-based_Fuzzing](IoT/IoTFuzzer_Discovering_Memory_Corruptions_in_IoT_Through_App-based_Fuzzing) -- Jiongyi Chen
 - *2019 paper* [车联网安全综述](IoT/车联网安全综述) -- 李兴华
 - *2019 paper* [CryptoREX_Large-scale_Analysis_of_Cryptographic_Misuse_in_IoT_Devices](IoT/CryptoREX_Large-scale_Analysis_of_Cryptographic_Misuse_in_IoT_Devices) -- Li Zhang
 - *2019 slides* [Firmware_Extraction](IoT/Firmware_Extraction) -- Pauline Bourmeau
 - *2019 report* [2019物联网安全年报](IoT/2019物联网安全年报) -- 绿盟
-- *2019 blog* [ANATOMY OF A FIRMWARE ATTACK](IoT/ANATOMY_OF_A_FIRMWARE_ATTACK) -- Eclypsium
+- *2019 blog* [ANATOMY_OF_A_FIRMWARE_ATTACK](IoT/ANATOMY_OF_A_FIRMWARE_ATTACK) -- Eclypsium
 - *2019 blog* [Toward_Automated_Firmware_Analysis_in_the_IoT_Era](IoT/Toward_Automated_Firmware_Analysis_in_the_IoT_Era) -- Grant Hernandez
+- *2019 paper* [Sok_Security_evaluation_of_home-based_iot_deployments](IoT/Sok_Security_evaluation_of_home-based_iot_deployments) -- Omar Alrawi
 
 ## Windows
 
