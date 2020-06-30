@@ -6,6 +6,4 @@
 - [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/)
 - [UART - Serial communication](https://www.mikroe.com/blog/uart-serial-communication)
 - [JTAG Explained]()(https://blog.senr.io/blog/jtag-explained#)
-- [IoT Standards and Protocols](https://www.postscapes.com/internet-of-things-protocols/)
 - [PentestHardware](https://github.com/unprovable/PentestHardware/)
-- [THE CAR HACKER’S HANDBOOK](http://opengarages.org/handbook/ebook/)
