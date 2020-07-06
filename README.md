@@ -83,6 +83,7 @@
 
 ## Fuzz
 - *2020 paper* [IJON_Exploring_Deep_State_Spaces_via_Fuzzing](Fuzz/IJON_Exploring_Deep_State_Spaces_via_Fuzzing)
+- *2020 paper* [AFLNet: A Greybox Fuzzer for Network Protocols](Fuzz/AFLNet_A_Greybox_Fuzzer_for_Network_Protocols)
 
 
 ## IOT
@@ -104,7 +105,7 @@
 - *2018 paper* [IoTFuzzer_Discovering_Memory_Corruptions_in_IoT_Through_App-based_Fuzzing](IoT/IoTFuzzer_Discovering_Memory_Corruptions_in_IoT_Through_App-based_Fuzzing)
 - *2018 paper* [Sensitive_Information_Tracking_in_Commodity_IoT](IoT/Sensitive_Information_Tracking_in_Commodity_IoT)
 - *2018 paper* [DTaint_Detecting_the_Taint-Style_Vulnerability_in_Embedded_Device_Firmware](IoT/DTaint_Detecting_the_Taint-Style_Vulnerability_in_Embedded_Device_Firmware)
-- *2018 slides* [Hardware_toolkits_for_IoT_security_analysis](IoT/Hardware_toolkits_for_IoT_security_analysis)
+- *2018 slides* [Beginners_Guide_on_How_to_Start_Exploring_IoT_Security](IoT/Beginners_Guide_on_How_to_Start_Exploring_IoT_Security)
 - *2019 paper* [CryptoREX_Large-scale_Analysis_of_Cryptographic_Misuse_in_IoT_Devices](IoT/CryptoREX_Large-scale_Analysis_of_Cryptographic_Misuse_in_IoT_Devices)
 - *2019 slides* [Firmware_Extraction](IoT/Firmware_Extraction)
 - ★☆☆☆☆ *2019 report* [2019物联网安全年报](IoT/2019物联网安全年报)
@@ -134,6 +135,7 @@
 - *2017 blog* [Hacking the IoT with MQTT](https://morphuslabs.com/hacking-the-iot-with-mqtt-8edaf0d07b9b)
 - *2018 blog* [Are smart homes vulnerable to hacking?](https://blog.avast.com/mqtt-vulnerabilities-hacking-smart-homes)
 - *2020 blog* [IoT Standards and Protocols](https://www.postscapes.com/internet-of-things-protocols/)
+- *2020 survey* [Security_of_IoT_Application_Layer_Protocols_Challenges_and_Findings](IoT/protocol/Security_of_IoT_Application_Layer_Protocols_Challenges_and_Findings)
 
 - *tool* [MQTT Explorer](http://mqtt-explorer.com/)
 - *tool* [Mosquitto](https://mosquitto.org/)
@@ -141,11 +143,18 @@
 - *tool* [Nmap Library mqtt](https://nmap.org/nsedoc/lib/mqtt.html)
 
 #### wireless
+- *2016 slides* [GATTACKING_BLUETOOTH_SMART_DEVICES](IoT/wireless/GATTACKING_BLUETOOTH_SMART_DEVICES)
 - *2017 blog* [Getting Started With Radio Hacking – Part 1 – Radio Frequency Basics And Theory](https://payatu.com/blog/Nitesh-Malviya/getting-started-with-radio-waves-hacking)
 - *2017 blog* [Getting Started With Radio Hacking – Part 2 – Listening To FM Using RTL-SDR And GQRX](https://payatu.com/blog/Nitesh-Malviya/getting-started-radio-hacking-part-2-listening-fm-using-rtl-sdr-gqrx)
 - *2017 blog* [Reversing And Exploiting BLE 4.0 Communication](https://payatu.com/blog/Arun-Mane/reversing-exploiting-ble-4-0-communication)
 - *2017 blog* [How I Reverse Engineered And Exploited A Smart Massager](https://payatu.com/blog/Arun-Magesh/smartmassager_re)
 - *2018 blog* [“Find – Bluetooth Tracker” Responsible Vulnerability Disclosure – Blog](https://payatu.com/blog/Arun-Magesh/find-bluetooth-tracker-responsible-vulnerability-disclosure-blog)
+- *2018 blog* [Intel Edison as Bluetooth LE — Exploit box](https://medium.com/@arunmag/intel-edison-as-bluetooth-le-exploit-box-a63e4cad6580)
+- *2018 blog* [My journey towards Reverse Engineering a Smart Band — Bluetooth-LE RE](https://medium.com/@arunmag/my-journey-towards-reverse-engineering-a-smart-band-bluetooth-le-re-d1dea00e4de2)
+- *2018 blog* [Hacking Smart Locks with Bluetooth / BLE](https://www.getkisi.com/blog/smart-locks-hacked-bluetooth-ble)
+- *2018 blog* [I hacked MiBand 3, and here is how I did it. Part I](https://medium.com/@yogeshojha/i-hacked-xiaomi-miband-3-and-here-is-how-i-did-it-43d68c272391)
+- *2018 blog* [I hacked MiBand 3, and here is how I did it. Part II](https://medium.com/@yogeshojha/i-hacked-miband-3-and-here-is-how-i-did-it-part-ii-reverse-engineering-to-upload-firmware-and-b28a05dfc308)
+- *2019 slides* [ble-bluetooth-low-energy-exploitation](IoT/wireless/ble-bluetooth-low-energy-exploitation)
 
 #### car
 - *2016 book* [THE CAR HACKER’S HANDBOOK](http://opengarages.org/handbook/ebook/)
@@ -155,8 +164,14 @@
 - *2018 report* [2018智能网联汽车信息安全年度报告](IoT/car/2018智能网联汽车信息安全年度报告)
 - *2019 report* [2019智能网联汽车信息安全年度报告](IoT/car/2019智能网联汽车信息安全年度报告)
 - *2019 survey* [车联网安全综述](IoT/car/车联网安全综述)
+- *2019 blog* [Car Hacking 101: Part I: Setting Up](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
+- *2019 blog* [Car Hacking 101: Part II: Exploitation](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-ee998570758)
+- *2019 blog* [Car Hacking 101: Part III: SavvyCAN, Fuzzing CAN Frame and playing around with CAN frames](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-ea40c05c49cd)
 - *2020 blog* [CAN Bus Explained - A Simple Intro](https://www.csselectronics.com/screen/page/simple-intro-to-can-bus)
 
+#### hardware
+- *2018 slides* [Hardware_toolkits_for_IoT_security_analysis](IoT/hardware/Hardware_toolkits_for_IoT_security_analysis)
+- *2019 book* [Hardware_Security_A_Hands-on_Learning_Approach](IoT/hardware/Hardware_Security_A_Hands-on_Learning_Approach)
 
 ## Windows
 
@@ -190,6 +205,7 @@
 - *2018 slides* [thinking_outside_the_virtualbox](Virtualization/thinking_outside_the_virtualbox)
 - *2018 blog* [intel_virtualisation_how_vt-x_kvm_and_qemu_work_together](Virtualization/intel_virtualisation_how_vt-x_kvm_and_qemu_work_together)
 - *2019 manual* [VirtualBox_User_Manual](Virtualization/VirtualBox_User_Manual)
+- *2020 manual* [openSUSE Leap 15.2 Virtualization Guide](https://doc.opensuse.org/documentation/leap/virtualization/html/book.virt/index.html)
 
 
 ## Cryptography
