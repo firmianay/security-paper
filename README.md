@@ -43,6 +43,7 @@
 - *2017 slides* [Digital_Vengeance_Exploiting_the_Most_Notorious_C&C_Toolkits](Malware/Digital_Vengeance_Exploiting_the_Most_Notorious_C&C_Toolkits)
 - *2017 paper* [Understanding_the_Mirai_Botnet](Malware/Understanding_the_Mirai_Botnet)
 - *2018 paper* [Understanding_Linux_Malware](Malware/Understanding_Linux_Malware)
+- *2018 slides* [Modern Linux Malware Exposed](Malware/Modern_Linux_Malware_Exposed)
 - *2018 slides* [Trojans_in_SS7-how_they_bypass_all_security_measures](Malware/Trojans_in_SS7-how_they_bypass_all_security_measures)
 - *2019 slides* [Fileless_Malware_and_Process_Injection_in_Linux](Malware/Fileless_Malware_and_Process_Injection_in_Linux)
 
@@ -95,10 +96,18 @@
 - *2016 paper* [Towards_Automated_Dynamic_Analysis_for_Linux-based_Embedded_Firmware](IoT/Towards_Automated_Dynamic_Analysis_for_Linux-based_Embedded_Firmware)
 - *2016 paper* [Scalable_Graph-based_Bug_Search_for_Firmware_Images](IoT/Scalable_Graph-based_Bug_Search_for_Firmware_Images)
 - *2017 paper* [IoT_Goes_Nuclear_Creating_a_Zigbee_Chain_Reaction](IoT/IoT_Goes_Nuclear_Creating_a_Zigbee_Chain_Reaction)
+- *2017 slides* [Reversing FreeRTOS on embedded devices](IoT/Reversing_FreeRTOS_on_embedded_devices)
 - ★★☆☆☆ *2017 survey* [物联网安全综述](IoT/物联网安全综述)
 - ★☆☆☆☆ *2018 survey* [智能家居安全综述](IoT/智能家居安全综述)
 - *2018 survey* [物联网操作系统安全研究综述](IoT/物联网操作系统安全研究综述)
 - ★★★☆☆ *2018 report* [智能设备安全分析手册](IoT/智能设备安全分析手册)
+- *2018 slides* [Fitbit Firmware Hacking](IoT/Fitbit_Firmware_Hacking)
+- *2018 slides* [Reversing_IoT_Xiaomi_ecosystem](IoT/Reversing_IoT_Xiaomi_ecosystem)
+- *2018 slides* [Bushwhacking your way around a bootloader](IoT/Bushwhacking_your_way_around_a_bootloader)
+- *2018 slides* [Dissecting_QNX](IoT/Dissecting_QNX)
+- *2018 slides* [Hacking_Toshiba_Laptops](IoT/Hacking_Toshiba_Laptops)
+- *2018 slides* [Subverting_your_server_through_its_BMC_the_HPE_iLO4_case](IoT/Subverting_your_server_through_its_BMC_the_HPE_iLO4_case)
+- *2018 slides* [DIY_ARM_Debugger_for_Wi-Fi_Chips](IoT/DIY_ARM_Debugger_for_Wi-Fi_Chips)
 - *2018 survey* [Program_Analysis_of_Commodity_IoT_Applications_for_Security_and_Privacy_Challenges_and_Opportunities](IoT/Program_Analysis_of_Commodity_IoT_Applications_for_Security_and_Privacy_Challenges_and_Opportunities)
 - *2018 paper* [Hackers_vs_Testers_A_Comparison_of_Software_Vulnerability_Discovery_Processes](Exploitation/Hackers_vs_Testers_A_Comparison_of_Software_Vulnerability_Discovery_Processes)
 - ★★★★☆ *2018 paper* [What_You_Corrupt_Is_Not_What_You_Crash_Challenges_in_Fuzzing_Embedded_Devices](IoT/What_You_Corrupt_Is_Not_What_You_Crash_Challenges_in_Fuzzing_Embedded_Devices)
@@ -170,8 +179,10 @@
 - *2020 blog* [CAN Bus Explained - A Simple Intro](https://www.csselectronics.com/screen/page/simple-intro-to-can-bus)
 
 #### hardware
+- *2017 slides* [Breaking Code Read Protection on the NXP LPC-family Microcontrollers](IoT/hardware/Breaking_Code_Read_Protection_on_the_NXP_LPC-family_Microcontrollers)
 - *2018 slides* [Hardware_toolkits_for_IoT_security_analysis](IoT/hardware/Hardware_toolkits_for_IoT_security_analysis)
 - *2019 book* [Hardware_Security_A_Hands-on_Learning_Approach](IoT/hardware/Hardware_Security_A_Hands-on_Learning_Approach)
+- *2019 slides* [Hardware Hacking 101](IoT/hardware/Hardware_Hacking_101)
 
 ## Windows
 
@@ -196,6 +207,7 @@
 - *2014 book* [Getting_Started_with_LLVM_Core_Libraries](Compiler/Getting_Started_with_LLVM_Core_Libraries)
 - *2014 slides* [BHUSA2014-capstone](Compiler/BHUSA2014-capstone)
 - *2016 slides* [BHUSA2016-keystone](Compiler/BHUSA2016-keystone)
+- *2018 slides* [Decompiler internals: microcode](Compiler/Decompiler_internals_microcode)
 
 
 ## Virtualization & Emulation
