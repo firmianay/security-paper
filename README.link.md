@@ -7,3 +7,8 @@
 - [UART - Serial communication](https://www.mikroe.com/blog/uart-serial-communication)
 - [JTAG Explained]()(https://blog.senr.io/blog/jtag-explained#)
 - [PentestHardware](https://github.com/unprovable/PentestHardware/)
+
+- [Android渗透测试HTTPS证书校验绕过](https://xz.aliyun.com/t/8047)
+- [从本质看未来：对网络安全行业的深度思考](https://mp.weixin.qq.com/s/pYxoDxpSQSu867lmIbsWyg)
+- [Frida Android hook](https://eternalsakura13.com/2020/07/04/frida/)
+- [微信小程序的渗透五脉](https://www.hackinn.com/index.php/archives/672/)

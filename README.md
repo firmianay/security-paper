@@ -77,6 +77,7 @@
 - *2016 paper* [LAVA_Large-scale_Automated_Vulnerability_Addition](Exploitation/LAVA_Large-scale_Automated_Vulnerability_Addition)
 - *2017 paper* [ASLR_on_the_Line_Practical_Cache_Attacks_on_the_MMU](Exploitation/ASLR_on_the_Line_Practical_Cache_Attacks_on_the_MMU)
 - *2017 blog* [Cyber_Grand_Shellphish](Exploitation/Cyber_Grand_Shellphish)
+- *2018 survey* [缓冲区溢出漏洞分析技术研究进展](Exploitation/缓冲区溢出漏洞分析技术研究进展)
 - *2019 survey* [安全漏洞自动利用综述](Exploitation/安全漏洞自动利用综述)
 - *2019 survey* [The_Art_Science_and_Engineering_of_Fuzzing_A_Survey](Exploitation/The_Art_Science_and_Engineering_of_Fuzzing_A_Survey)
 - *2020 paper* [Typestate-Guided_Fuzzer_for_Discovering_Use-after-Free_Vulnerabilities](Exploitation/Typestate-Guided_Fuzzer_for_Discovering_Use-after-Free_Vulnerabilities)
@@ -152,6 +153,8 @@
 - *tool* [Nmap Library mqtt](https://nmap.org/nsedoc/lib/mqtt.html)
 
 #### wireless
+- *2007 paper* [Stateful Fuzzing of Wireless Device Drivers in an Emulated Environment](IoT/wireless/Stateful_Fuzzing_of_Wireless_Device_Drivers_in_an_Emulated_Environment)
+- *2008 paper* [Fuzzing Wi-Fi Drivers to Locate Security Vulnerabilities](IoT/wireless/Fuzzing_Wi-Fi_Drivers_to_Locate_Security_Vulnerabilities)
 - *2016 slides* [GATTACKING_BLUETOOTH_SMART_DEVICES](IoT/wireless/GATTACKING_BLUETOOTH_SMART_DEVICES)
 - *2017 blog* [Getting Started With Radio Hacking – Part 1 – Radio Frequency Basics And Theory](https://payatu.com/blog/Nitesh-Malviya/getting-started-with-radio-waves-hacking)
 - *2017 blog* [Getting Started With Radio Hacking – Part 2 – Listening To FM Using RTL-SDR And GQRX](https://payatu.com/blog/Nitesh-Malviya/getting-started-radio-hacking-part-2-listening-fm-using-rtl-sdr-gqrx)
@@ -163,7 +166,9 @@
 - *2018 blog* [Hacking Smart Locks with Bluetooth / BLE](https://www.getkisi.com/blog/smart-locks-hacked-bluetooth-ble)
 - *2018 blog* [I hacked MiBand 3, and here is how I did it. Part I](https://medium.com/@yogeshojha/i-hacked-xiaomi-miband-3-and-here-is-how-i-did-it-43d68c272391)
 - *2018 blog* [I hacked MiBand 3, and here is how I did it. Part II](https://medium.com/@yogeshojha/i-hacked-miband-3-and-here-is-how-i-did-it-part-ii-reverse-engineering-to-upload-firmware-and-b28a05dfc308)
+- *2018 slides* [802.11 Smart Fuzzing](IoT/wireless/802.11_Smart_Fuzzing)
 - *2019 slides* [ble-bluetooth-low-energy-exploitation](IoT/wireless/ble-bluetooth-low-energy-exploitation)
+- *2019 manual [Bluetooth Core Specification](IoT/wireless/Bluetooth_Core_Specification)
 
 #### car
 - *2016 book* [THE CAR HACKER’S HANDBOOK](http://opengarages.org/handbook/ebook/)
@@ -176,6 +181,7 @@
 - *2019 blog* [Car Hacking 101: Part I: Setting Up](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
 - *2019 blog* [Car Hacking 101: Part II: Exploitation](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-ee998570758)
 - *2019 blog* [Car Hacking 101: Part III: SavvyCAN, Fuzzing CAN Frame and playing around with CAN frames](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-ea40c05c49cd)
+- *2019 slides* [0-days&Mitigations_Roadways_to_Exploit_and_Secure_Connected_BMW_Cars](IoT/car/0-days&Mitigations_Roadways_to_Exploit_and_Secure_Connected_BMW_Cars)
 - *2020 blog* [CAN Bus Explained - A Simple Intro](https://www.csselectronics.com/screen/page/simple-intro-to-can-bus)
 
 #### hardware
