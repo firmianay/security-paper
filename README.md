@@ -134,6 +134,9 @@
 - *2020 blog* [MINDSHARE: DEALING WITH ENCRYPTED ROUTER FIRMWARE](https://www.thezdi.com/blog/2020/2/6/mindshare-dealing-with-encrypted-router-firmware)
 - *2020 blog* [Virtualizing ARM-Based Firmware Part - 1](https://payatu.com/blog/mihir/virtualizing-arm-based-firmware-part---1)
 - *2020 blog* [Virtualizing ARM-Based Firmware Part - 2](https://payatu.com/blog/mihir/virtualizing-arm-based-firmware-part---2)
+- *2020 slides* [Exploit (Almost) All Xiaomi Routers Using Logical Bugs](IoT/Exploit_Almost_All_Xiaomi_Routers_Using_Logical_Bugs)
+- *2020 blog* [WarezTheRemote Turning remotes into listening devices](IoT/Turning_remotes_into_listening_devices)
+- *2020 blog* [Identified and Authorized: Sneaking Past Edge-Based Access Control Devices](IoT/Sneaking_Past_Edge-Based_Access_Control_Devices)
 
 #### protocol
 - *2015 specification* [MQTT Version 3.1.1 OASIS Standard](IoT/protocol/mqtt-v3.1.1)
@@ -168,7 +171,9 @@
 - *2018 blog* [I hacked MiBand 3, and here is how I did it. Part II](https://medium.com/@yogeshojha/i-hacked-miband-3-and-here-is-how-i-did-it-part-ii-reverse-engineering-to-upload-firmware-and-b28a05dfc308)
 - *2018 slides* [802.11 Smart Fuzzing](IoT/wireless/802.11_Smart_Fuzzing)
 - *2019 slides* [ble-bluetooth-low-energy-exploitation](IoT/wireless/ble-bluetooth-low-energy-exploitation)
-- *2019 manual [Bluetooth Core Specification](IoT/wireless/Bluetooth_Core_Specification)
+- *2019 manual* [Bluetooth Core Specification](IoT/wireless/Bluetooth_Core_Specification)
+- *2019 blog* [ZigBee Networks An Overview for implementers and security testers](IoT/wireless/ZigBee_Networks_An_Overview)
+- *2020 slides* [Finding New Bluetooth Low Energy Exploits via Reverse Engineering Multiple Vendors' Firmwares](IoT/wireless/Finding_New_Bluetooth_Low_Energy_Exploits_via_Reverse_Engineering_Multiple_Vendors_Firmwares)
 
 #### car
 - *2016 book* [THE CAR HACKER’S HANDBOOK](http://opengarages.org/handbook/ebook/)
@@ -183,6 +188,7 @@
 - *2019 blog* [Car Hacking 101: Part III: SavvyCAN, Fuzzing CAN Frame and playing around with CAN frames](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-ea40c05c49cd)
 - *2019 slides* [0-days&Mitigations_Roadways_to_Exploit_and_Secure_Connected_BMW_Cars](IoT/car/0-days&Mitigations_Roadways_to_Exploit_and_Secure_Connected_BMW_Cars)
 - *2020 blog* [CAN Bus Explained - A Simple Intro](https://www.csselectronics.com/screen/page/simple-intro-to-can-bus)
+- *2020 report* [车联网网络安全白皮书(2020年)](IoT/car/2020车联网网络安全白皮书)
 
 #### hardware
 - *2017 slides* [Breaking Code Read Protection on the NXP LPC-family Microcontrollers](IoT/hardware/Breaking_Code_Read_Protection_on_the_NXP_LPC-family_Microcontrollers)
