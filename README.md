@@ -90,8 +90,10 @@
 
 ## IOT
 - *2006 paper* [IoT/Vulnerabilities_in_first-generation_RFID-enabled_credit_cards](IoT/Vulnerabilities_in_first-generation_RFID-enabled_credit_cards)
+- *2013 book* [Hacking the Xbox](IoT/Hacking_the_Xbox)
 - *2013 paper* [FIE_on_Firmware_Finding_Vulnerabilities_in_Embedded_Systems_Using_Symbolic_Execution](IoT/FIE_on_Firmware_Finding_Vulnerabilities_in_Embedded_Systems_Using_Symbolic_Execution)
 - *2014 paper* [A_Large-Scale_Analysis_of_the_Security_of_Embedded_Firmwares](IoT/A_Large-Scale_Analysis_of_the_Security_of_Embedded_Firmwares)
+- *2015 slides* [Advanced_SOHO_Router_Exploitation](IoT/Advanced_SOHO_Router_Exploitation)
 - *2015 slides* [Cameras_Thermostats_and_Home_Automation_Controllers](IoT/Cameras_Thermostats_and_Home_Automation_Controllers)
 - *2015 paper* [Firmalice-Automatic_Detection_of_Authentication_Bypass_Vulnerabilitiesin_Binary_Firmware](IoT/Firmalice-Automatic_Detection_of_Authentication_Bypass_Vulnerabilitiesin_Binary_Firmware)
 - *2016 paper* [Towards_Automated_Dynamic_Analysis_for_Linux-based_Embedded_Firmware](IoT/Towards_Automated_Dynamic_Analysis_for_Linux-based_Embedded_Firmware)
@@ -137,6 +139,9 @@
 - *2020 slides* [Exploit (Almost) All Xiaomi Routers Using Logical Bugs](IoT/Exploit_Almost_All_Xiaomi_Routers_Using_Logical_Bugs)
 - *2020 blog* [WarezTheRemote Turning remotes into listening devices](IoT/Turning_remotes_into_listening_devices)
 - *2020 blog* [Identified and Authorized: Sneaking Past Edge-Based Access Control Devices](IoT/Sneaking_Past_Edge-Based_Access_Control_Devices)
+- *2020 slides* [The Art & Craft of writing ARM shellcode](IoT/The_Art_Craft_of_writing_ARM_shellcode)
+
+- *2020 tool* [Qiling Framework: Introduction](IoT/Qiling_Framework_Introduction)
 
 #### protocol
 - *2015 specification* [MQTT Version 3.1.1 OASIS Standard](IoT/protocol/mqtt-v3.1.1)
@@ -174,8 +179,10 @@
 - *2019 manual* [Bluetooth Core Specification](IoT/wireless/Bluetooth_Core_Specification)
 - *2019 blog* [ZigBee Networks An Overview for implementers and security testers](IoT/wireless/ZigBee_Networks_An_Overview)
 - *2020 slides* [Finding New Bluetooth Low Energy Exploits via Reverse Engineering Multiple Vendors' Firmwares](IoT/wireless/Finding_New_Bluetooth_Low_Energy_Exploits_via_Reverse_Engineering_Multiple_Vendors_Firmwares)
+- *2020 slides* [A Practical Introduction to Bluetooth Low Energy security without any special hardware](IoT/wireless/A_Practical_Introduction_to_Bluetooth_Low_Energy_security_without_any_special_hardware)
 
 #### car
+- *2015 blog* [Car Hacking series](IoT/car/Car_Hacking_series)
 - *2016 book* [THE CAR HACKER’S HANDBOOK](http://opengarages.org/handbook/ebook/)
 - *2016 slides* [PENTESTING VEHICLES WITH CANTOOLZ](IoT/car/PENTESTING_VEHICLES_WITH_CANTOOLZ)
 - *2016 slides* [特斯拉安全漏洞的发现过程](IoT/car/特斯拉安全漏洞的发现过程)
@@ -183,6 +190,7 @@
 - *2018 report* [2018智能网联汽车信息安全年度报告](IoT/car/2018智能网联汽车信息安全年度报告)
 - *2019 report* [2019智能网联汽车信息安全年度报告](IoT/car/2019智能网联汽车信息安全年度报告)
 - *2019 survey* [车联网安全综述](IoT/car/车联网安全综述)
+- *2019 slides* [Common Attacks Against Car Infotainment Systems](IoT/car/Common_Attacks_Against_Car_Infotainment_Systems)
 - *2019 blog* [Car Hacking 101: Part I: Setting Up](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
 - *2019 blog* [Car Hacking 101: Part II: Exploitation](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-ee998570758)
 - *2019 blog* [Car Hacking 101: Part III: SavvyCAN, Fuzzing CAN Frame and playing around with CAN frames](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-ea40c05c49cd)
