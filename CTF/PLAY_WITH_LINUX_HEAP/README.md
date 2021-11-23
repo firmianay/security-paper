@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/veritas501/attachment_in_blog/ff24f5a79f4854157e8ce50b6810d1508d14ea9f/Linux%20Heap%20Internals/Linux%20Heap%20Internals.pdf
