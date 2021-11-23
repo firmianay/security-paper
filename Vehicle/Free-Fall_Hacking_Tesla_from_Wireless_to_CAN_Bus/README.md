@@ -1,0 +1,3 @@
+- https://www.blackhat.com/docs/us-17/thursday/us-17-Nie-Free-Fall-Hacking-Tesla-From-Wireless-To-CAN-Bus.pdf
+- https://www.blackhat.com/docs/us-17/thursday/us-17-Nie-Free-Fall-Hacking-Tesla-From-Wireless-To-CAN-Bus-wp.pdf
+- https://www.youtube.com/watch?v=0w8J9bmCI54&ab_channel=BlackHat

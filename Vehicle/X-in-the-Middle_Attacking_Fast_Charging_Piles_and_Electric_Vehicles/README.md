@@ -1,0 +1,2 @@
+- https://i.blackhat.com/asia-21/Thursday-Handouts/as-21-Wu-X-In-The-Middle-Attacking-Fast-Charging-Piles-And-Electric-Vehicles.pdf
+- https://www.youtube.com/watch?v=4HyVbNrV4CA&ab_channel=BlackHat

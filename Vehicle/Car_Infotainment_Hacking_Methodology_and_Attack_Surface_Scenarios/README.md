@@ -1,0 +1,2 @@
+- https://hitcon.org/2018/CMT/slide-files/d2_s0_r0_keynote.pdf
+- https://www.youtube.com/watch?v=F0mYkI2FJ_4&ab_channel=DEFCONConference

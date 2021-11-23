@@ -1,0 +1,3 @@
+- https://tches.iacr.org/index.php/TCHES/article/view/8289/7862
+- https://www.youtube.com/watch?v=Qkl6yQe4BKM&ab_channel=TheIACR
+- https://tches.iacr.org/index.php/TCHES/article/view/8289/7639
