@@ -195,6 +195,7 @@
 - *2016 slides video* [Can You Trust Autonomous Vehicles: Contactless Attacks against Sensors of Self-driving Vehicle](Vehicle/Contactless_Attacks_against_Sensors_of_Self-driving_Vehicle)
 - *2016 slides video* [Self-Driving and Connected Cars: Fooling Sensors and Tracking Drivers](Vehicle/Fooling_Sensors_and_Tracking_Drivers)
 - ★★★★☆ *2016 slides* [特斯拉安全漏洞的发现过程](Vehicle/特斯拉安全漏洞的发现过程)
+- ★★★★★ *2017 book* [智能汽车安全攻防大揭秘](vehicle/智能汽车安全攻防大揭秘)
 - ★★★★★ *2017 slides video* [Free-Fall: Hacking Tesla from Wireless to CAN Bus](Vehicle/Free-Fall_Hacking_Tesla_from_Wireless_to_CAN_Bus)
 - ★★★★★ *2018 slides video* [Over-the-Air: How we Remotely Compromised the Gateway, BCM, and Autopilot ECUs of Tesla Cars](Vehicle/Over-The-Air_How_We_Remotely_Compromised_The_Gateway_Bcm_And_Autopilot_ECUs_Of_Tesla_Cars)
 - *2017 blog* [Building a Car Hacking Development Workbench](https://blog.rapid7.com/author/andrew-bindner/)
@@ -300,3 +301,7 @@
 - ★★★☆☆ *2019 blog* [The_Beginners_Guide_to_IDAPython](Others/The_Beginners_Guide_to_IDAPython)
 - *2019 slides* [Bug_Hunting_in_Synology_NAS](Others/Bug_Hunting_in_Synology_NAS)
 - *2020 report* [全球高级持续性威胁（APT）2019年报告](Others/全球高级持续性威胁（APT）2019年报告)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/firmianay/security-paper.svg)](https://starchart.cc/firmianay/security-paper)
