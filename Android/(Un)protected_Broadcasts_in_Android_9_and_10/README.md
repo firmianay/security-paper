@@ -1,0 +1,3 @@
+- https://i.blackhat.com/asia-21/Thursday-Handouts/as-21-Johnson-Unprotected-Broadcasts-In-Android-9-and-10-wp.pdf
+- https://i.blackhat.com/asia-21/Thursday-Handouts/as-21-Johnson-Unprotected-Broadcasts-In-Android-9-and-10.pdf
+- https://www.youtube.com/watch?v=nDHPZH20rtE&ab_channel=BlackHat

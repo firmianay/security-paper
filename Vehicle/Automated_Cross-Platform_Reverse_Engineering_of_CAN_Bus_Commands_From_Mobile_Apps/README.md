@@ -1,0 +1,5 @@
+- https://www.ndss-symposium.org/wp-content/uploads/2020/02/24231-paper.pdf
+- https://www.ndss-symposium.org/wp-content/uploads/24231-slides.pdf
+- https://www.youtube.com/watch?v=Gd07JpS5uG4&list=PLfUWWM-POgQs_6FxNWrgbQW2K-xrvzT3v&index=4&ab_channel=NDSSSymposium
+- https://github.com/OSUSecLab/CANHunter
+- https://vehicle-reverse-engineering.fandom.com/wiki/Vehicle_Reverse_Engineering_Wiki

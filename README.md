@@ -214,6 +214,9 @@
   - [slides](https://scapy.net/conf/troopers2019/#/)
   - [video](https://www.youtube.com/watch?v=7D7uNqPWrXw&ab_channel=TROOPERScon)
 - *2019 slides* [0-days&Mitigations_Roadways_to_Exploit_and_Secure_Connected_BMW_Cars](Vehicle/0-days&Mitigations_Roadways_to_Exploit_and_Secure_Connected_BMW_Cars)
+- *2019 paper slides video* [Losing the Car Keys: Wireless PHY-Layer Insecurity in EV Charging](Vehicle\Losing_the_Car_Keys_Wireless_PHY-Layer_Insecurity_in_EV_Charging)
+- *2020 paper slides video* [Automated Cross-Platform Reverse Engineering of CAN Bus Commands From Mobile Apps](Vehicle\Automated_Cross-Platform_Reverse_Engineering_of_CAN_Bus_Commands_From_Mobile_Apps)
+- **2020 paper slides video* [Hold the Door! Fingerprinting Your Car Key to Prevent Keyless Entry Car Theft](Vehicle\Hold_the_Door_Fingerprinting_Your_Car_Key_to_Prevent_Keyless_Entry_Car_Theft)
 - ★★★★☆ *2020 blog* Simple intros
   - [CAN Bus Explained](https://www.csselectronics.com/screen/page/simple-intro-to-can-bus)
   - [OBD2 Explained](https://www.csselectronics.com/pages/obd2-explained-simple-intro)
@@ -230,8 +233,13 @@
 - 特斯拉固件逆向系列
   - [1. Reverse Engineering Tesla Hardware](https://www.pentestpartners.com/security-blog/reverse-engineering-tesla-hardware/)
   - [2. Reverse Engineering the Tesla Firmware Update Process](https://www.pentestpartners.com/security-blog/reverse-engineering-the-tesla-firmware-update-process/)
+- *2020 slides video* 特斯拉NFC中继攻击
+  - [blog](https://www.anquanke.com/post/id/213885)
+  - [slides](https://www.slideshare.net/Kevin2600/hacking-tesla-model3-nfc-relay-revisited)
+  - [video](https://www.youtube.com/watch?v=nn-_3AbtEkI&ab_channel=CarHackingVillage)
 - *2020 report* [车联网网络安全白皮书(2020年)](Vehicle/2020车联网网络安全白皮书)
 - *2020 report* [智能网联汽车安全渗透白皮书(2020年)](Vehicle/2020智能网联汽车安全渗透白皮书)
+- *2020 report* [梅赛德斯-奔驰安全研究报告](vehicle/梅赛德斯-奔驰安全研究报告)
 - ★★☆☆☆ *2020 blog slides video* [Tesla远程API逆向分析与利用](Vehicle/Tesla远程API逆向分析与利用)
 - *2021 slides video* [X-in-the-Middle_Attacking_Fast_Charging_Piles_and_Electric_Vehicles](Vehicle/X-in-the-Middle_Attacking_Fast_Charging_Piles_and_Electric_Vehicles)
 - ★★★☆☆ *2021 blog* [施耐德充电桩漏洞挖掘之旅](https://forum.butian.net/share/357)
@@ -245,7 +253,9 @@
 - *2019 book* [Hardware_Security_A_Hands-on_Learning_Approach](IoT/hardware/Hardware_Security_A_Hands-on_Learning_Approach)
 - *2019 slides* [Hardware Hacking 101](IoT/hardware/Hardware_Hacking_101)
 
-## Windows
+## Android
+
+- *2021 slides video* [(Un)protected Broadcasts in Android 9 and 10](Android\(Un)protected_Broadcasts_in_Android_9_and_10)
 
 ## Linux
 

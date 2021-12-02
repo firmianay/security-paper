@@ -1,0 +1,3 @@
+- https://www.usenix.org/system/files/sec19-baker.pdf
+- https://www.usenix.org/sites/default/files/conference/protected-files/sec19_slides_baker.pdf
+- https://www.youtube.com/watch?v=4VaXqtZkQmE&ab_channel=USENIX
