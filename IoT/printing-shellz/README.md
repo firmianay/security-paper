@@ -1,0 +1,2 @@
+- https://labs.f-secure.com/publications/printing-shellz/
+- https://labs.f-secure.com/assets/BlogFiles/Printing-Shellz.pdf

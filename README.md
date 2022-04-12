@@ -141,7 +141,7 @@
 - *2020 blog* [Identified and Authorized: Sneaking Past Edge-Based Access Control Devices](IoT/Sneaking_Past_Edge-Based_Access_Control_Devices)
 - *2020 slides* [The Art & Craft of writing ARM shellcode](IoT/The_Art_Craft_of_writing_ARM_shellcode)
 - *2020 paper* [FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis](IoT/FirmAE_Towards_Large-Scale_Emulation_of_IoT_Firmware_for_Dynamic_Analysis)
-
+- *2021 blog* [printing-shellz](IoT\printing-shellz)
 - *2020 tool* [Qiling Framework: Introduction](IoT/Qiling_Framework_Introduction)
 - *2020 manual* [消费级物联网安全基线](IoT/消费级物联网安全基线)
 - *2021 report* [2020物联网安全年报-绿盟](IoT/2020物联网安全年报)
@@ -158,6 +158,7 @@
 - *2018 blog* [Are smart homes vulnerable to hacking?](https://blog.avast.com/mqtt-vulnerabilities-hacking-smart-homes)
 - *2020 blog* [IoT Standards and Protocols](https://www.postscapes.com/internet-of-things-protocols/)
 - *2020 survey* [Security_of_IoT_Application_Layer_Protocols_Challenges_and_Findings](IoT/protocol/Security_of_IoT_Application_Layer_Protocols_Challenges_and_Findings)
+- *2021 slides* [基于模拟仿真的蓝牙协议栈漏洞挖掘](IoT\protocol\基于模拟仿真的蓝牙协议栈漏洞挖掘)
 
 - *tool* [MQTT Explorer](http://mqtt-explorer.com/)
 - *tool* [Mosquitto](https://mosquitto.org/)
@@ -245,6 +246,8 @@
 - ★★★☆☆ *2021 blog* [施耐德充电桩漏洞挖掘之旅](https://forum.butian.net/share/357)
 - *2021 blog* [奔驰汽车信息安全研究综述报告](Vehicle/奔驰汽车信息安全研究综述报告)
 - *2021 slides paper* [TBONE – A zero-click exploit for Tesla MCUs](Vehicle/TBONE–A_zero-click_exploit_for_Tesla_MCUs)
+- *2020 paper* [Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols](Vehicle\Towards_Automatically_Reverse_Engineering_Vehicle_Diagnostic_Protocols)
+- *2021 report* [车联网数据安全体系建设指南](Vehicle\车联网数据安全体系建设指南)
 
 ### hardware
 
@@ -256,6 +259,7 @@
 ## Android
 
 - *2021 slides video* [(Un)protected Broadcasts in Android 9 and 10](Android\(Un)protected_Broadcasts_in_Android_9_and_10)
+- *2020 book* [Android Application Secure Design/Secure Coding Guidebook](Android\Android_Application_Secure_DesignSecure_Coding_Guidebook)
 
 ## Linux
 
@@ -294,6 +298,7 @@
 
 - *2017 book* [A_Graduate_Course_in_Applied_Cryptography](Cryptography/A_Graduate_Course_in_Applied_Cryptography)
 - *2017 slides* [API_design_for_cryptography](Cryptography/API_design_for_cryptography)
+- *online* [TLS Security](https://www.acunetix.com/blog/articles/tls-security-what-is-tls-ssl-part-1/)
 
 ## CTF
 

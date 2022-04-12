@@ -1,0 +1,1 @@
+- http://www.jssec.org/dl/android_securecoding_en.pdf
